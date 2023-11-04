@@ -523,8 +523,8 @@ class FFTLinearLayer(nn.Module):
 
         参数：
         - fft_result_gpu: 输入的2D DFT结果，复数矩阵（torch.Tensor）
-        - amplitude_gain: 振幅的增益因子（float）
-        - phase_offset: 相位的偏移值（float）
+        - amplitude_gain: 振幅的增益因子（torch.Tensor）
+        - phase_offset: 相位的偏移值（torch.Tensor）
 
         返回值：
         - 调整后的FFT结果，复数矩阵（torch.Tensor）
@@ -532,7 +532,8 @@ class FFTLinearLayer(nn.Module):
 
         # 获取 fft_result_gpu 的形状，通常是 (M, N)，其中 M 和 N 是矩阵的维度
         M, N = fft_result.shape
-
+        amplitude_gain=amplitude_gain_tensor.item()
+        phase_offset=phase_offset_tensor.item()
         # 使用广播操作同时调整所有频率分量的振幅和相位
         amplitude_adjusted = fft_result.abs() * amplitude_gain
         phase_adjusted = fft_result.angle() + phase_offset
