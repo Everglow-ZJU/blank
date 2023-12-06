@@ -12,28 +12,25 @@ class FFTLinearLayer(nn.Module):
         self.register_buffer('cross_attention_dim', torch.tensor(in_features))
         self.register_buffer('hidden_size', torch.tensor(out_features))
         self.register_buffer('threshold',torch.tensor(threshold))
-        # Define the fixed Linear layer: v
-        # self.OPT = torch.nn.Linear(in_features=in_features, out_features=out_features, bias=bias)
-        
+
         # self.fft_filt_shape = [out_features, in_features]
         self.fft_filt_height_width=2*threshold
 
         # 初始化上三角矩阵的参数
-        self.amplitude_gain_upper_triangular_vector = nn.Parameter(torch.ones(self.fft_filt_height_width*(self.fft_filt_height_width+1)//2))
-        # self.phase_offset = nn.Parameter(torch.tensor(0.0))
+        self.amplitude_gain_upper_triangular_vector = nn.Parameter(torch.ones(self.fft_filt_height_width*(self.fft_filt_height_width+1)//2),requires_grad=True)
+        self.phase_offset = nn.Parameter(torch.zeros(self.fft_filt_height_width,self.fft_filt_height_width),requires_grad=False)
 
-        # 创建上三角矩阵，但不在forward中使用
-        self.upper_triangular_matrix = self.create_upper_triangular_matrix(n)
+        self.mask = torch.triu(torch.ones(self.fft_filt_height_width, self.fft_filt_height_width,device=self.amplitude_gain_upper_triangular_vector.device), diagonal=0).bool() #todo:is device right
+        # self.upper_triangular_matrix = self.create_upper_triangular_matrix(n)
 
-    def create_upper_triangular_matrix(self, n):
-        # 创建上三角矩阵
-        upper_triangular_matrix = torch.zeros(n, n)
-        # upper_triangular_matrix = torch.triu(upper_triangular_matrix, diagonal=0) #包含对角线
-        
-        # 使用向量填充上三角矩阵的非对角线部分
-        upper_triangular_matrix += torch.diag(self.upper_triangular_vector, 0)
+    def create_symmetric_matrix(self):
+        # 从上三角向量构造出完整的对称矩阵
+        symmetric_matrix = torch.zeros_like(self.mask)
 
-        return upper_triangular_matrix
+        symmetric_matrix[self.mask] = self.amplitude_gain_upper_triangular_vector
+        symmetric_matrix=symmetric_matrix+symmetric_matrix.t()-torch.diag(symmetric_matrix.diag())
+
+        return symmetric_matrix
 
 
     def forward(self,attn,x):
@@ -41,8 +38,10 @@ class FFTLinearLayer(nn.Module):
         orig_dtype = x.dtype
         #fix filter
         fix_filt= attn.weight.data
+        # 创建中心对称矩阵矩阵
+        amplitude_gain_matrix=self.create_symmetric_matrix()
         #fft_finetune
-        filt=self.fft_finetune(fix_filt,self.amplitude_gain,self.phase_offset)
+        filt=self.fft_finetune(fix_filt,amplitude_gain_matrix,self.phase_offset)
         #bias term
         bias_term = attn.bias.data if attn.bias is not None else None
         if bias_term is not None:
@@ -80,8 +79,8 @@ class FFTLinearLayer(nn.Module):
 
         参数：
         - fft_result_gpu: 输入的2D DFT结果，复数矩阵（torch.Tensor）
-        - amplitude_gain: 高频率分量的振幅增益因子（float）
-        - phase_offset: 高频率分量的相位偏移值（float）
+        - amplitude_gain: 高频率分量的振幅增益因子（torch.Tensor）
+        - phase_offset: 高频率分量的相位偏移值（torch.Tensor）
 
         返回值：
         - 调整后的FFT结果，复数矩阵（torch.Tensor）
@@ -103,7 +102,7 @@ class FFTLinearLayer(nn.Module):
         phase_adjusted[..., crow - self.threshold:crow + self.threshold, ccol - self.threshold:ccol + self.threshold] = phase_offset
 
         # 将调整应用到频域结果
-        amplitude_adjusted = amplitude_adjusted * fft_result_gpu_shifted.abs()
+        amplitude_adjusted = (amplitude_adjusted * fft_result_gpu_shifted.abs()).abs()
         phase_adjusted = phase_adjusted + fft_result_gpu_shifted.angle()
 
         # 构建新的复数值
