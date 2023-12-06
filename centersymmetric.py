@@ -1,21 +1,25 @@
 import torch
 import torch.nn as nn
+torch.manual_seed(42)
 
-class SymmetricMatrixLayer(nn.Module):
+class SymmetricMatrixLayer_2(nn.Module):
     def __init__(self, size):
-        super(SymmetricMatrixLayer, self).__init__()
-        self.upper_tri_values = nn.Parameter(torch.randn(size, size))
-        self.mask = torch.triu(torch.ones(size, size), diagonal=0).bool()
+        super(SymmetricMatrixLayer_2, self).__init__()
+        # 初始化上三角向量
+        self.size=size
+        self.upper_tri_vector = nn.Parameter(torch.randn(size*(size+1)//2))
+        self.mask = torch.triu(torch.ones(size, size), diagonal=0).bool().cuda() #todo:is device right
 
     def forward(self):
-        upper_tri = self.upper_tri_values.masked_select(self.mask).view(-1)
-        symmetric_matrix = torch.zeros(self.upper_tri_values.size(), device=self.upper_tri_values.device)
-        symmetric_matrix[self.mask] = upper_tri
-        symmetric_matrix[self.mask.transpose(0, 1)] = upper_tri
+        # 从上三角向量构造出完整的对称矩阵
+        symmetric_matrix = torch.zeros(self.mask.size(), device=self.upper_tri_vector.device)
+        symmetric_matrix[self.mask] = self.upper_tri_vector
+        symmetric_matrix=symmetric_matrix+symmetric_matrix.t()-torch.diag(symmetric_matrix.diag())
         return symmetric_matrix
 
 # 使用示例
 size = 4
-symmetric_layer = SymmetricMatrixLayer(size)
+symmetric_layer = SymmetricMatrixLayer_2(size).to('cuda')
+print(symmetric_layer.upper_tri_vector)
 symmetric_matrix = symmetric_layer()
 print(symmetric_matrix)
