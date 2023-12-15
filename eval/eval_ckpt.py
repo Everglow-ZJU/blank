@@ -119,12 +119,12 @@ def get_prompt_and_name(idx):
 def parse_args(input_args=None):
     parser = argparse.ArgumentParser(description="a eval script.")
     parser.add_argument(
-        parser.add_argument(
         "--idx",
         type=int,
         default=0,
-        help="Number of images that should be generated during validation with `validation_prompt`.",
-    )    
+        help="idx",
+    )   
+    parser.add_argument( 
         "--pretrained_model_name_or_path",
         type=str,
         default=None,
@@ -150,6 +150,13 @@ def parse_args(input_args=None):
         default=None,
         required=True,
         help="root Path to lora/oft/fft validation output,like"./log_lora",
+    )
+    parser.add_argument( 
+        "--weight_filename",
+        type=str,
+        default=None,
+        required=True,
+        help="weight file name",
     )   
 def main(args):
     idx=args.idx
@@ -163,7 +170,7 @@ def main(args):
     # unique_token="qwe"
     
     validation_prompt,name,weight_folder_name=get_prompt_and_name(idx)
-    weight_path=os.path.join(args.output_root_path,weight_folder_name,str(epoch)) #model is under this directory
+    weight_path=os.path.join(args.output_root_path,weight_folder_name,str(epoch),args.weight_filename) #model is under this directory
     
     text_encoder_cls =import_model_class_from_model_name_or_path(model_base, None)
     text_encoder = text_encoder_cls.from_pretrained(model_base, subfolder="text_encoder",revision=None)
