@@ -12,5 +12,6 @@ for idx in {0..749}; do
      --seed="0" \
      --epoch=4 \
      --output_root_path="./log_fft" \
+     --weight_filename="pytorch_fft_weights.bin" \
      >> custom_output.log 2>&1 &  # 使用 >> 追加写入日志文件
 done
