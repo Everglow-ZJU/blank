@@ -149,7 +149,7 @@ def parse_args(input_args=None):
         type=str,
         default=None,
         required=True,
-        help="root Path to lora/oft/fft validation output,like"./log_lora",
+        help="root Path to lora/oft/fft validation output,like./log_lora",
     )
     parser.add_argument( 
         "--weight_filename",
