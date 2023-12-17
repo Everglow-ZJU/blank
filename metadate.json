@@ -1,0 +1,3002 @@
+{
+    "backpack-0": {
+        "data_dir": "backpack-0",
+        "instance_prompt": "a backpack in the jungle"
+    },
+    "backpack-1": {
+        "data_dir": "backpack-1",
+        "instance_prompt": "a backpack in the snow"
+    },
+    "backpack-2": {
+        "data_dir": "backpack-2",
+        "instance_prompt": "a backpack on the beach"
+    },
+    "backpack-3": {
+        "data_dir": "backpack-3",
+        "instance_prompt": "a backpack on a cobblestone street"
+    },
+    "backpack-4": {
+        "data_dir": "backpack-4",
+        "instance_prompt": "a backpack on top of pink fabric"
+    },
+    "backpack-5": {
+        "data_dir": "backpack-5",
+        "instance_prompt": "a backpack on top of a wooden floor"
+    },
+    "backpack-6": {
+        "data_dir": "backpack-6",
+        "instance_prompt": "a backpack with a city in the background"
+    },
+    "backpack-7": {
+        "data_dir": "backpack-7",
+        "instance_prompt": "a backpack with a mountain in the background"
+    },
+    "backpack-8": {
+        "data_dir": "backpack-8",
+        "instance_prompt": "a backpack with a blue house in the background"
+    },
+    "backpack-9": {
+        "data_dir": "backpack-9",
+        "instance_prompt": "a backpack on top of a purple rug in a forest"
+    },
+    "backpack-10": {
+        "data_dir": "backpack-10",
+        "instance_prompt": "a backpack with a wheat field in the background"
+    },
+    "backpack-11": {
+        "data_dir": "backpack-11",
+        "instance_prompt": "a backpack with a tree and autumn leaves in the background"
+    },
+    "backpack-12": {
+        "data_dir": "backpack-12",
+        "instance_prompt": "a backpack with the Eiffel Tower in the background"
+    },
+    "backpack-13": {
+        "data_dir": "backpack-13",
+        "instance_prompt": "a backpack floating on top of water"
+    },
+    "backpack-14": {
+        "data_dir": "backpack-14",
+        "instance_prompt": "a backpack floating in an ocean of milk"
+    },
+    "backpack-15": {
+        "data_dir": "backpack-15",
+        "instance_prompt": "a backpack on top of green grass with sunflowers around it"
+    },
+    "backpack-16": {
+        "data_dir": "backpack-16",
+        "instance_prompt": "a backpack on top of a mirror"
+    },
+    "backpack-17": {
+        "data_dir": "backpack-17",
+        "instance_prompt": "a backpack on top of the sidewalk in a crowded street"
+    },
+    "backpack-18": {
+        "data_dir": "backpack-18",
+        "instance_prompt": "a backpack on top of a dirt road"
+    },
+    "backpack-19": {
+        "data_dir": "backpack-19",
+        "instance_prompt": "a backpack on top of a white rug"
+    },
+    "backpack-20": {
+        "data_dir": "backpack-20",
+        "instance_prompt": "a red backpack"
+    },
+    "backpack-21": {
+        "data_dir": "backpack-21",
+        "instance_prompt": "a purple backpack"
+    },
+    "backpack-22": {
+        "data_dir": "backpack-22",
+        "instance_prompt": "a shiny backpack"
+    },
+    "backpack-23": {
+        "data_dir": "backpack-23",
+        "instance_prompt": "a wet backpack"
+    },
+    "backpack-24": {
+        "data_dir": "backpack-24",
+        "instance_prompt": "a cube shaped backpack"
+    },
+    "backpack_dog-0": {
+        "data_dir": "backpack_dog-0",
+        "instance_prompt": "a backpack in the jungle"
+    },
+    "backpack_dog-1": {
+        "data_dir": "backpack_dog-1",
+        "instance_prompt": "a backpack in the snow"
+    },
+    "backpack_dog-2": {
+        "data_dir": "backpack_dog-2",
+        "instance_prompt": "a backpack on the beach"
+    },
+    "backpack_dog-3": {
+        "data_dir": "backpack_dog-3",
+        "instance_prompt": "a backpack on a cobblestone street"
+    },
+    "backpack_dog-4": {
+        "data_dir": "backpack_dog-4",
+        "instance_prompt": "a backpack on top of pink fabric"
+    },
+    "backpack_dog-5": {
+        "data_dir": "backpack_dog-5",
+        "instance_prompt": "a backpack on top of a wooden floor"
+    },
+    "backpack_dog-6": {
+        "data_dir": "backpack_dog-6",
+        "instance_prompt": "a backpack with a city in the background"
+    },
+    "backpack_dog-7": {
+        "data_dir": "backpack_dog-7",
+        "instance_prompt": "a backpack with a mountain in the background"
+    },
+    "backpack_dog-8": {
+        "data_dir": "backpack_dog-8",
+        "instance_prompt": "a backpack with a blue house in the background"
+    },
+    "backpack_dog-9": {
+        "data_dir": "backpack_dog-9",
+        "instance_prompt": "a backpack on top of a purple rug in a forest"
+    },
+    "backpack_dog-10": {
+        "data_dir": "backpack_dog-10",
+        "instance_prompt": "a backpack with a wheat field in the background"
+    },
+    "backpack_dog-11": {
+        "data_dir": "backpack_dog-11",
+        "instance_prompt": "a backpack with a tree and autumn leaves in the background"
+    },
+    "backpack_dog-12": {
+        "data_dir": "backpack_dog-12",
+        "instance_prompt": "a backpack with the Eiffel Tower in the background"
+    },
+    "backpack_dog-13": {
+        "data_dir": "backpack_dog-13",
+        "instance_prompt": "a backpack floating on top of water"
+    },
+    "backpack_dog-14": {
+        "data_dir": "backpack_dog-14",
+        "instance_prompt": "a backpack floating in an ocean of milk"
+    },
+    "backpack_dog-15": {
+        "data_dir": "backpack_dog-15",
+        "instance_prompt": "a backpack on top of green grass with sunflowers around it"
+    },
+    "backpack_dog-16": {
+        "data_dir": "backpack_dog-16",
+        "instance_prompt": "a backpack on top of a mirror"
+    },
+    "backpack_dog-17": {
+        "data_dir": "backpack_dog-17",
+        "instance_prompt": "a backpack on top of the sidewalk in a crowded street"
+    },
+    "backpack_dog-18": {
+        "data_dir": "backpack_dog-18",
+        "instance_prompt": "a backpack on top of a dirt road"
+    },
+    "backpack_dog-19": {
+        "data_dir": "backpack_dog-19",
+        "instance_prompt": "a backpack on top of a white rug"
+    },
+    "backpack_dog-20": {
+        "data_dir": "backpack_dog-20",
+        "instance_prompt": "a red backpack"
+    },
+    "backpack_dog-21": {
+        "data_dir": "backpack_dog-21",
+        "instance_prompt": "a purple backpack"
+    },
+    "backpack_dog-22": {
+        "data_dir": "backpack_dog-22",
+        "instance_prompt": "a shiny backpack"
+    },
+    "backpack_dog-23": {
+        "data_dir": "backpack_dog-23",
+        "instance_prompt": "a wet backpack"
+    },
+    "backpack_dog-24": {
+        "data_dir": "backpack_dog-24",
+        "instance_prompt": "a cube shaped backpack"
+    },
+    "bear_plushie-0": {
+        "data_dir": "bear_plushie-0",
+        "instance_prompt": "a stuffed animal in the jungle"
+    },
+    "bear_plushie-1": {
+        "data_dir": "bear_plushie-1",
+        "instance_prompt": "a stuffed animal in the snow"
+    },
+    "bear_plushie-2": {
+        "data_dir": "bear_plushie-2",
+        "instance_prompt": "a stuffed animal on the beach"
+    },
+    "bear_plushie-3": {
+        "data_dir": "bear_plushie-3",
+        "instance_prompt": "a stuffed animal on a cobblestone street"
+    },
+    "bear_plushie-4": {
+        "data_dir": "bear_plushie-4",
+        "instance_prompt": "a stuffed animal on top of pink fabric"
+    },
+    "bear_plushie-5": {
+        "data_dir": "bear_plushie-5",
+        "instance_prompt": "a stuffed animal on top of a wooden floor"
+    },
+    "bear_plushie-6": {
+        "data_dir": "bear_plushie-6",
+        "instance_prompt": "a stuffed animal with a city in the background"
+    },
+    "bear_plushie-7": {
+        "data_dir": "bear_plushie-7",
+        "instance_prompt": "a stuffed animal with a mountain in the background"
+    },
+    "bear_plushie-8": {
+        "data_dir": "bear_plushie-8",
+        "instance_prompt": "a stuffed animal with a blue house in the background"
+    },
+    "bear_plushie-9": {
+        "data_dir": "bear_plushie-9",
+        "instance_prompt": "a stuffed animal on top of a purple rug in a forest"
+    },
+    "bear_plushie-10": {
+        "data_dir": "bear_plushie-10",
+        "instance_prompt": "a stuffed animal with a wheat field in the background"
+    },
+    "bear_plushie-11": {
+        "data_dir": "bear_plushie-11",
+        "instance_prompt": "a stuffed animal with a tree and autumn leaves in the background"
+    },
+    "bear_plushie-12": {
+        "data_dir": "bear_plushie-12",
+        "instance_prompt": "a stuffed animal with the Eiffel Tower in the background"
+    },
+    "bear_plushie-13": {
+        "data_dir": "bear_plushie-13",
+        "instance_prompt": "a stuffed animal floating on top of water"
+    },
+    "bear_plushie-14": {
+        "data_dir": "bear_plushie-14",
+        "instance_prompt": "a stuffed animal floating in an ocean of milk"
+    },
+    "bear_plushie-15": {
+        "data_dir": "bear_plushie-15",
+        "instance_prompt": "a stuffed animal on top of green grass with sunflowers around it"
+    },
+    "bear_plushie-16": {
+        "data_dir": "bear_plushie-16",
+        "instance_prompt": "a stuffed animal on top of a mirror"
+    },
+    "bear_plushie-17": {
+        "data_dir": "bear_plushie-17",
+        "instance_prompt": "a stuffed animal on top of the sidewalk in a crowded street"
+    },
+    "bear_plushie-18": {
+        "data_dir": "bear_plushie-18",
+        "instance_prompt": "a stuffed animal on top of a dirt road"
+    },
+    "bear_plushie-19": {
+        "data_dir": "bear_plushie-19",
+        "instance_prompt": "a stuffed animal on top of a white rug"
+    },
+    "bear_plushie-20": {
+        "data_dir": "bear_plushie-20",
+        "instance_prompt": "a red stuffed animal"
+    },
+    "bear_plushie-21": {
+        "data_dir": "bear_plushie-21",
+        "instance_prompt": "a purple stuffed animal"
+    },
+    "bear_plushie-22": {
+        "data_dir": "bear_plushie-22",
+        "instance_prompt": "a shiny stuffed animal"
+    },
+    "bear_plushie-23": {
+        "data_dir": "bear_plushie-23",
+        "instance_prompt": "a wet stuffed animal"
+    },
+    "bear_plushie-24": {
+        "data_dir": "bear_plushie-24",
+        "instance_prompt": "a cube shaped stuffed animal"
+    },
+    "berry_bowl-0": {
+        "data_dir": "berry_bowl-0",
+        "instance_prompt": "a bowl in the jungle"
+    },
+    "berry_bowl-1": {
+        "data_dir": "berry_bowl-1",
+        "instance_prompt": "a bowl in the snow"
+    },
+    "berry_bowl-2": {
+        "data_dir": "berry_bowl-2",
+        "instance_prompt": "a bowl on the beach"
+    },
+    "berry_bowl-3": {
+        "data_dir": "berry_bowl-3",
+        "instance_prompt": "a bowl on a cobblestone street"
+    },
+    "berry_bowl-4": {
+        "data_dir": "berry_bowl-4",
+        "instance_prompt": "a bowl on top of pink fabric"
+    },
+    "berry_bowl-5": {
+        "data_dir": "berry_bowl-5",
+        "instance_prompt": "a bowl on top of a wooden floor"
+    },
+    "berry_bowl-6": {
+        "data_dir": "berry_bowl-6",
+        "instance_prompt": "a bowl with a city in the background"
+    },
+    "berry_bowl-7": {
+        "data_dir": "berry_bowl-7",
+        "instance_prompt": "a bowl with a mountain in the background"
+    },
+    "berry_bowl-8": {
+        "data_dir": "berry_bowl-8",
+        "instance_prompt": "a bowl with a blue house in the background"
+    },
+    "berry_bowl-9": {
+        "data_dir": "berry_bowl-9",
+        "instance_prompt": "a bowl on top of a purple rug in a forest"
+    },
+    "berry_bowl-10": {
+        "data_dir": "berry_bowl-10",
+        "instance_prompt": "a bowl with a wheat field in the background"
+    },
+    "berry_bowl-11": {
+        "data_dir": "berry_bowl-11",
+        "instance_prompt": "a bowl with a tree and autumn leaves in the background"
+    },
+    "berry_bowl-12": {
+        "data_dir": "berry_bowl-12",
+        "instance_prompt": "a bowl with the Eiffel Tower in the background"
+    },
+    "berry_bowl-13": {
+        "data_dir": "berry_bowl-13",
+        "instance_prompt": "a bowl floating on top of water"
+    },
+    "berry_bowl-14": {
+        "data_dir": "berry_bowl-14",
+        "instance_prompt": "a bowl floating in an ocean of milk"
+    },
+    "berry_bowl-15": {
+        "data_dir": "berry_bowl-15",
+        "instance_prompt": "a bowl on top of green grass with sunflowers around it"
+    },
+    "berry_bowl-16": {
+        "data_dir": "berry_bowl-16",
+        "instance_prompt": "a bowl on top of a mirror"
+    },
+    "berry_bowl-17": {
+        "data_dir": "berry_bowl-17",
+        "instance_prompt": "a bowl on top of the sidewalk in a crowded street"
+    },
+    "berry_bowl-18": {
+        "data_dir": "berry_bowl-18",
+        "instance_prompt": "a bowl on top of a dirt road"
+    },
+    "berry_bowl-19": {
+        "data_dir": "berry_bowl-19",
+        "instance_prompt": "a bowl on top of a white rug"
+    },
+    "berry_bowl-20": {
+        "data_dir": "berry_bowl-20",
+        "instance_prompt": "a red bowl"
+    },
+    "berry_bowl-21": {
+        "data_dir": "berry_bowl-21",
+        "instance_prompt": "a purple bowl"
+    },
+    "berry_bowl-22": {
+        "data_dir": "berry_bowl-22",
+        "instance_prompt": "a shiny bowl"
+    },
+    "berry_bowl-23": {
+        "data_dir": "berry_bowl-23",
+        "instance_prompt": "a wet bowl"
+    },
+    "berry_bowl-24": {
+        "data_dir": "berry_bowl-24",
+        "instance_prompt": "a cube shaped bowl"
+    },
+    "can-0": {
+        "data_dir": "can-0",
+        "instance_prompt": "a can in the jungle"
+    },
+    "can-1": {
+        "data_dir": "can-1",
+        "instance_prompt": "a can in the snow"
+    },
+    "can-2": {
+        "data_dir": "can-2",
+        "instance_prompt": "a can on the beach"
+    },
+    "can-3": {
+        "data_dir": "can-3",
+        "instance_prompt": "a can on a cobblestone street"
+    },
+    "can-4": {
+        "data_dir": "can-4",
+        "instance_prompt": "a can on top of pink fabric"
+    },
+    "can-5": {
+        "data_dir": "can-5",
+        "instance_prompt": "a can on top of a wooden floor"
+    },
+    "can-6": {
+        "data_dir": "can-6",
+        "instance_prompt": "a can with a city in the background"
+    },
+    "can-7": {
+        "data_dir": "can-7",
+        "instance_prompt": "a can with a mountain in the background"
+    },
+    "can-8": {
+        "data_dir": "can-8",
+        "instance_prompt": "a can with a blue house in the background"
+    },
+    "can-9": {
+        "data_dir": "can-9",
+        "instance_prompt": "a can on top of a purple rug in a forest"
+    },
+    "can-10": {
+        "data_dir": "can-10",
+        "instance_prompt": "a can with a wheat field in the background"
+    },
+    "can-11": {
+        "data_dir": "can-11",
+        "instance_prompt": "a can with a tree and autumn leaves in the background"
+    },
+    "can-12": {
+        "data_dir": "can-12",
+        "instance_prompt": "a can with the Eiffel Tower in the background"
+    },
+    "can-13": {
+        "data_dir": "can-13",
+        "instance_prompt": "a can floating on top of water"
+    },
+    "can-14": {
+        "data_dir": "can-14",
+        "instance_prompt": "a can floating in an ocean of milk"
+    },
+    "can-15": {
+        "data_dir": "can-15",
+        "instance_prompt": "a can on top of green grass with sunflowers around it"
+    },
+    "can-16": {
+        "data_dir": "can-16",
+        "instance_prompt": "a can on top of a mirror"
+    },
+    "can-17": {
+        "data_dir": "can-17",
+        "instance_prompt": "a can on top of the sidewalk in a crowded street"
+    },
+    "can-18": {
+        "data_dir": "can-18",
+        "instance_prompt": "a can on top of a dirt road"
+    },
+    "can-19": {
+        "data_dir": "can-19",
+        "instance_prompt": "a can on top of a white rug"
+    },
+    "can-20": {
+        "data_dir": "can-20",
+        "instance_prompt": "a red can"
+    },
+    "can-21": {
+        "data_dir": "can-21",
+        "instance_prompt": "a purple can"
+    },
+    "can-22": {
+        "data_dir": "can-22",
+        "instance_prompt": "a shiny can"
+    },
+    "can-23": {
+        "data_dir": "can-23",
+        "instance_prompt": "a wet can"
+    },
+    "can-24": {
+        "data_dir": "can-24",
+        "instance_prompt": "a cube shaped can"
+    },
+    "candle-0": {
+        "data_dir": "candle-0",
+        "instance_prompt": "a candle in the jungle"
+    },
+    "candle-1": {
+        "data_dir": "candle-1",
+        "instance_prompt": "a candle in the snow"
+    },
+    "candle-2": {
+        "data_dir": "candle-2",
+        "instance_prompt": "a candle on the beach"
+    },
+    "candle-3": {
+        "data_dir": "candle-3",
+        "instance_prompt": "a candle on a cobblestone street"
+    },
+    "candle-4": {
+        "data_dir": "candle-4",
+        "instance_prompt": "a candle on top of pink fabric"
+    },
+    "candle-5": {
+        "data_dir": "candle-5",
+        "instance_prompt": "a candle on top of a wooden floor"
+    },
+    "candle-6": {
+        "data_dir": "candle-6",
+        "instance_prompt": "a candle with a city in the background"
+    },
+    "candle-7": {
+        "data_dir": "candle-7",
+        "instance_prompt": "a candle with a mountain in the background"
+    },
+    "candle-8": {
+        "data_dir": "candle-8",
+        "instance_prompt": "a candle with a blue house in the background"
+    },
+    "candle-9": {
+        "data_dir": "candle-9",
+        "instance_prompt": "a candle on top of a purple rug in a forest"
+    },
+    "candle-10": {
+        "data_dir": "candle-10",
+        "instance_prompt": "a candle with a wheat field in the background"
+    },
+    "candle-11": {
+        "data_dir": "candle-11",
+        "instance_prompt": "a candle with a tree and autumn leaves in the background"
+    },
+    "candle-12": {
+        "data_dir": "candle-12",
+        "instance_prompt": "a candle with the Eiffel Tower in the background"
+    },
+    "candle-13": {
+        "data_dir": "candle-13",
+        "instance_prompt": "a candle floating on top of water"
+    },
+    "candle-14": {
+        "data_dir": "candle-14",
+        "instance_prompt": "a candle floating in an ocean of milk"
+    },
+    "candle-15": {
+        "data_dir": "candle-15",
+        "instance_prompt": "a candle on top of green grass with sunflowers around it"
+    },
+    "candle-16": {
+        "data_dir": "candle-16",
+        "instance_prompt": "a candle on top of a mirror"
+    },
+    "candle-17": {
+        "data_dir": "candle-17",
+        "instance_prompt": "a candle on top of the sidewalk in a crowded street"
+    },
+    "candle-18": {
+        "data_dir": "candle-18",
+        "instance_prompt": "a candle on top of a dirt road"
+    },
+    "candle-19": {
+        "data_dir": "candle-19",
+        "instance_prompt": "a candle on top of a white rug"
+    },
+    "candle-20": {
+        "data_dir": "candle-20",
+        "instance_prompt": "a red candle"
+    },
+    "candle-21": {
+        "data_dir": "candle-21",
+        "instance_prompt": "a purple candle"
+    },
+    "candle-22": {
+        "data_dir": "candle-22",
+        "instance_prompt": "a shiny candle"
+    },
+    "candle-23": {
+        "data_dir": "candle-23",
+        "instance_prompt": "a wet candle"
+    },
+    "candle-24": {
+        "data_dir": "candle-24",
+        "instance_prompt": "a cube shaped candle"
+    },
+    "cat-0": {
+        "data_dir": "cat-0",
+        "instance_prompt": "a cat in the jungle"
+    },
+    "cat-1": {
+        "data_dir": "cat-1",
+        "instance_prompt": "a cat in the snow"
+    },
+    "cat-2": {
+        "data_dir": "cat-2",
+        "instance_prompt": "a cat on the beach"
+    },
+    "cat-3": {
+        "data_dir": "cat-3",
+        "instance_prompt": "a cat on a cobblestone street"
+    },
+    "cat-4": {
+        "data_dir": "cat-4",
+        "instance_prompt": "a cat on top of pink fabric"
+    },
+    "cat-5": {
+        "data_dir": "cat-5",
+        "instance_prompt": "a cat on top of a wooden floor"
+    },
+    "cat-6": {
+        "data_dir": "cat-6",
+        "instance_prompt": "a cat with a city in the background"
+    },
+    "cat-7": {
+        "data_dir": "cat-7",
+        "instance_prompt": "a cat with a mountain in the background"
+    },
+    "cat-8": {
+        "data_dir": "cat-8",
+        "instance_prompt": "a cat with a blue house in the background"
+    },
+    "cat-9": {
+        "data_dir": "cat-9",
+        "instance_prompt": "a cat on top of a purple rug in a forest"
+    },
+    "cat-10": {
+        "data_dir": "cat-10",
+        "instance_prompt": "a cat with a wheat field in the background"
+    },
+    "cat-11": {
+        "data_dir": "cat-11",
+        "instance_prompt": "a cat with a tree and autumn leaves in the background"
+    },
+    "cat-12": {
+        "data_dir": "cat-12",
+        "instance_prompt": "a cat with the Eiffel Tower in the background"
+    },
+    "cat-13": {
+        "data_dir": "cat-13",
+        "instance_prompt": "a cat floating on top of water"
+    },
+    "cat-14": {
+        "data_dir": "cat-14",
+        "instance_prompt": "a cat floating in an ocean of milk"
+    },
+    "cat-15": {
+        "data_dir": "cat-15",
+        "instance_prompt": "a cat on top of green grass with sunflowers around it"
+    },
+    "cat-16": {
+        "data_dir": "cat-16",
+        "instance_prompt": "a cat on top of a mirror"
+    },
+    "cat-17": {
+        "data_dir": "cat-17",
+        "instance_prompt": "a cat on top of the sidewalk in a crowded street"
+    },
+    "cat-18": {
+        "data_dir": "cat-18",
+        "instance_prompt": "a cat on top of a dirt road"
+    },
+    "cat-19": {
+        "data_dir": "cat-19",
+        "instance_prompt": "a cat on top of a white rug"
+    },
+    "cat-20": {
+        "data_dir": "cat-20",
+        "instance_prompt": "a red cat"
+    },
+    "cat-21": {
+        "data_dir": "cat-21",
+        "instance_prompt": "a purple cat"
+    },
+    "cat-22": {
+        "data_dir": "cat-22",
+        "instance_prompt": "a shiny cat"
+    },
+    "cat-23": {
+        "data_dir": "cat-23",
+        "instance_prompt": "a wet cat"
+    },
+    "cat-24": {
+        "data_dir": "cat-24",
+        "instance_prompt": "a cube shaped cat"
+    },
+    "cat2-0": {
+        "data_dir": "cat2-0",
+        "instance_prompt": "a cat in the jungle"
+    },
+    "cat2-1": {
+        "data_dir": "cat2-1",
+        "instance_prompt": "a cat in the snow"
+    },
+    "cat2-2": {
+        "data_dir": "cat2-2",
+        "instance_prompt": "a cat on the beach"
+    },
+    "cat2-3": {
+        "data_dir": "cat2-3",
+        "instance_prompt": "a cat on a cobblestone street"
+    },
+    "cat2-4": {
+        "data_dir": "cat2-4",
+        "instance_prompt": "a cat on top of pink fabric"
+    },
+    "cat2-5": {
+        "data_dir": "cat2-5",
+        "instance_prompt": "a cat on top of a wooden floor"
+    },
+    "cat2-6": {
+        "data_dir": "cat2-6",
+        "instance_prompt": "a cat with a city in the background"
+    },
+    "cat2-7": {
+        "data_dir": "cat2-7",
+        "instance_prompt": "a cat with a mountain in the background"
+    },
+    "cat2-8": {
+        "data_dir": "cat2-8",
+        "instance_prompt": "a cat with a blue house in the background"
+    },
+    "cat2-9": {
+        "data_dir": "cat2-9",
+        "instance_prompt": "a cat on top of a purple rug in a forest"
+    },
+    "cat2-10": {
+        "data_dir": "cat2-10",
+        "instance_prompt": "a cat with a wheat field in the background"
+    },
+    "cat2-11": {
+        "data_dir": "cat2-11",
+        "instance_prompt": "a cat with a tree and autumn leaves in the background"
+    },
+    "cat2-12": {
+        "data_dir": "cat2-12",
+        "instance_prompt": "a cat with the Eiffel Tower in the background"
+    },
+    "cat2-13": {
+        "data_dir": "cat2-13",
+        "instance_prompt": "a cat floating on top of water"
+    },
+    "cat2-14": {
+        "data_dir": "cat2-14",
+        "instance_prompt": "a cat floating in an ocean of milk"
+    },
+    "cat2-15": {
+        "data_dir": "cat2-15",
+        "instance_prompt": "a cat on top of green grass with sunflowers around it"
+    },
+    "cat2-16": {
+        "data_dir": "cat2-16",
+        "instance_prompt": "a cat on top of a mirror"
+    },
+    "cat2-17": {
+        "data_dir": "cat2-17",
+        "instance_prompt": "a cat on top of the sidewalk in a crowded street"
+    },
+    "cat2-18": {
+        "data_dir": "cat2-18",
+        "instance_prompt": "a cat on top of a dirt road"
+    },
+    "cat2-19": {
+        "data_dir": "cat2-19",
+        "instance_prompt": "a cat on top of a white rug"
+    },
+    "cat2-20": {
+        "data_dir": "cat2-20",
+        "instance_prompt": "a red cat"
+    },
+    "cat2-21": {
+        "data_dir": "cat2-21",
+        "instance_prompt": "a purple cat"
+    },
+    "cat2-22": {
+        "data_dir": "cat2-22",
+        "instance_prompt": "a shiny cat"
+    },
+    "cat2-23": {
+        "data_dir": "cat2-23",
+        "instance_prompt": "a wet cat"
+    },
+    "cat2-24": {
+        "data_dir": "cat2-24",
+        "instance_prompt": "a cube shaped cat"
+    },
+    "clock-0": {
+        "data_dir": "clock-0",
+        "instance_prompt": "a clock in the jungle"
+    },
+    "clock-1": {
+        "data_dir": "clock-1",
+        "instance_prompt": "a clock in the snow"
+    },
+    "clock-2": {
+        "data_dir": "clock-2",
+        "instance_prompt": "a clock on the beach"
+    },
+    "clock-3": {
+        "data_dir": "clock-3",
+        "instance_prompt": "a clock on a cobblestone street"
+    },
+    "clock-4": {
+        "data_dir": "clock-4",
+        "instance_prompt": "a clock on top of pink fabric"
+    },
+    "clock-5": {
+        "data_dir": "clock-5",
+        "instance_prompt": "a clock on top of a wooden floor"
+    },
+    "clock-6": {
+        "data_dir": "clock-6",
+        "instance_prompt": "a clock with a city in the background"
+    },
+    "clock-7": {
+        "data_dir": "clock-7",
+        "instance_prompt": "a clock with a mountain in the background"
+    },
+    "clock-8": {
+        "data_dir": "clock-8",
+        "instance_prompt": "a clock with a blue house in the background"
+    },
+    "clock-9": {
+        "data_dir": "clock-9",
+        "instance_prompt": "a clock on top of a purple rug in a forest"
+    },
+    "clock-10": {
+        "data_dir": "clock-10",
+        "instance_prompt": "a clock with a wheat field in the background"
+    },
+    "clock-11": {
+        "data_dir": "clock-11",
+        "instance_prompt": "a clock with a tree and autumn leaves in the background"
+    },
+    "clock-12": {
+        "data_dir": "clock-12",
+        "instance_prompt": "a clock with the Eiffel Tower in the background"
+    },
+    "clock-13": {
+        "data_dir": "clock-13",
+        "instance_prompt": "a clock floating on top of water"
+    },
+    "clock-14": {
+        "data_dir": "clock-14",
+        "instance_prompt": "a clock floating in an ocean of milk"
+    },
+    "clock-15": {
+        "data_dir": "clock-15",
+        "instance_prompt": "a clock on top of green grass with sunflowers around it"
+    },
+    "clock-16": {
+        "data_dir": "clock-16",
+        "instance_prompt": "a clock on top of a mirror"
+    },
+    "clock-17": {
+        "data_dir": "clock-17",
+        "instance_prompt": "a clock on top of the sidewalk in a crowded street"
+    },
+    "clock-18": {
+        "data_dir": "clock-18",
+        "instance_prompt": "a clock on top of a dirt road"
+    },
+    "clock-19": {
+        "data_dir": "clock-19",
+        "instance_prompt": "a clock on top of a white rug"
+    },
+    "clock-20": {
+        "data_dir": "clock-20",
+        "instance_prompt": "a red clock"
+    },
+    "clock-21": {
+        "data_dir": "clock-21",
+        "instance_prompt": "a purple clock"
+    },
+    "clock-22": {
+        "data_dir": "clock-22",
+        "instance_prompt": "a shiny clock"
+    },
+    "clock-23": {
+        "data_dir": "clock-23",
+        "instance_prompt": "a wet clock"
+    },
+    "clock-24": {
+        "data_dir": "clock-24",
+        "instance_prompt": "a cube shaped clock"
+    },
+    "colorful_sneaker-0": {
+        "data_dir": "colorful_sneaker-0",
+        "instance_prompt": "a sneaker in the jungle"
+    },
+    "colorful_sneaker-1": {
+        "data_dir": "colorful_sneaker-1",
+        "instance_prompt": "a sneaker in the snow"
+    },
+    "colorful_sneaker-2": {
+        "data_dir": "colorful_sneaker-2",
+        "instance_prompt": "a sneaker on the beach"
+    },
+    "colorful_sneaker-3": {
+        "data_dir": "colorful_sneaker-3",
+        "instance_prompt": "a sneaker on a cobblestone street"
+    },
+    "colorful_sneaker-4": {
+        "data_dir": "colorful_sneaker-4",
+        "instance_prompt": "a sneaker on top of pink fabric"
+    },
+    "colorful_sneaker-5": {
+        "data_dir": "colorful_sneaker-5",
+        "instance_prompt": "a sneaker on top of a wooden floor"
+    },
+    "colorful_sneaker-6": {
+        "data_dir": "colorful_sneaker-6",
+        "instance_prompt": "a sneaker with a city in the background"
+    },
+    "colorful_sneaker-7": {
+        "data_dir": "colorful_sneaker-7",
+        "instance_prompt": "a sneaker with a mountain in the background"
+    },
+    "colorful_sneaker-8": {
+        "data_dir": "colorful_sneaker-8",
+        "instance_prompt": "a sneaker with a blue house in the background"
+    },
+    "colorful_sneaker-9": {
+        "data_dir": "colorful_sneaker-9",
+        "instance_prompt": "a sneaker on top of a purple rug in a forest"
+    },
+    "colorful_sneaker-10": {
+        "data_dir": "colorful_sneaker-10",
+        "instance_prompt": "a sneaker with a wheat field in the background"
+    },
+    "colorful_sneaker-11": {
+        "data_dir": "colorful_sneaker-11",
+        "instance_prompt": "a sneaker with a tree and autumn leaves in the background"
+    },
+    "colorful_sneaker-12": {
+        "data_dir": "colorful_sneaker-12",
+        "instance_prompt": "a sneaker with the Eiffel Tower in the background"
+    },
+    "colorful_sneaker-13": {
+        "data_dir": "colorful_sneaker-13",
+        "instance_prompt": "a sneaker floating on top of water"
+    },
+    "colorful_sneaker-14": {
+        "data_dir": "colorful_sneaker-14",
+        "instance_prompt": "a sneaker floating in an ocean of milk"
+    },
+    "colorful_sneaker-15": {
+        "data_dir": "colorful_sneaker-15",
+        "instance_prompt": "a sneaker on top of green grass with sunflowers around it"
+    },
+    "colorful_sneaker-16": {
+        "data_dir": "colorful_sneaker-16",
+        "instance_prompt": "a sneaker on top of a mirror"
+    },
+    "colorful_sneaker-17": {
+        "data_dir": "colorful_sneaker-17",
+        "instance_prompt": "a sneaker on top of the sidewalk in a crowded street"
+    },
+    "colorful_sneaker-18": {
+        "data_dir": "colorful_sneaker-18",
+        "instance_prompt": "a sneaker on top of a dirt road"
+    },
+    "colorful_sneaker-19": {
+        "data_dir": "colorful_sneaker-19",
+        "instance_prompt": "a sneaker on top of a white rug"
+    },
+    "colorful_sneaker-20": {
+        "data_dir": "colorful_sneaker-20",
+        "instance_prompt": "a red sneaker"
+    },
+    "colorful_sneaker-21": {
+        "data_dir": "colorful_sneaker-21",
+        "instance_prompt": "a purple sneaker"
+    },
+    "colorful_sneaker-22": {
+        "data_dir": "colorful_sneaker-22",
+        "instance_prompt": "a shiny sneaker"
+    },
+    "colorful_sneaker-23": {
+        "data_dir": "colorful_sneaker-23",
+        "instance_prompt": "a wet sneaker"
+    },
+    "colorful_sneaker-24": {
+        "data_dir": "colorful_sneaker-24",
+        "instance_prompt": "a cube shaped sneaker"
+    },
+    "dog-0": {
+        "data_dir": "dog-0",
+        "instance_prompt": "a dog in the jungle"
+    },
+    "dog-1": {
+        "data_dir": "dog-1",
+        "instance_prompt": "a dog in the snow"
+    },
+    "dog-2": {
+        "data_dir": "dog-2",
+        "instance_prompt": "a dog on the beach"
+    },
+    "dog-3": {
+        "data_dir": "dog-3",
+        "instance_prompt": "a dog on a cobblestone street"
+    },
+    "dog-4": {
+        "data_dir": "dog-4",
+        "instance_prompt": "a dog on top of pink fabric"
+    },
+    "dog-5": {
+        "data_dir": "dog-5",
+        "instance_prompt": "a dog on top of a wooden floor"
+    },
+    "dog-6": {
+        "data_dir": "dog-6",
+        "instance_prompt": "a dog with a city in the background"
+    },
+    "dog-7": {
+        "data_dir": "dog-7",
+        "instance_prompt": "a dog with a mountain in the background"
+    },
+    "dog-8": {
+        "data_dir": "dog-8",
+        "instance_prompt": "a dog with a blue house in the background"
+    },
+    "dog-9": {
+        "data_dir": "dog-9",
+        "instance_prompt": "a dog on top of a purple rug in a forest"
+    },
+    "dog-10": {
+        "data_dir": "dog-10",
+        "instance_prompt": "a dog with a wheat field in the background"
+    },
+    "dog-11": {
+        "data_dir": "dog-11",
+        "instance_prompt": "a dog with a tree and autumn leaves in the background"
+    },
+    "dog-12": {
+        "data_dir": "dog-12",
+        "instance_prompt": "a dog with the Eiffel Tower in the background"
+    },
+    "dog-13": {
+        "data_dir": "dog-13",
+        "instance_prompt": "a dog floating on top of water"
+    },
+    "dog-14": {
+        "data_dir": "dog-14",
+        "instance_prompt": "a dog floating in an ocean of milk"
+    },
+    "dog-15": {
+        "data_dir": "dog-15",
+        "instance_prompt": "a dog on top of green grass with sunflowers around it"
+    },
+    "dog-16": {
+        "data_dir": "dog-16",
+        "instance_prompt": "a dog on top of a mirror"
+    },
+    "dog-17": {
+        "data_dir": "dog-17",
+        "instance_prompt": "a dog on top of the sidewalk in a crowded street"
+    },
+    "dog-18": {
+        "data_dir": "dog-18",
+        "instance_prompt": "a dog on top of a dirt road"
+    },
+    "dog-19": {
+        "data_dir": "dog-19",
+        "instance_prompt": "a dog on top of a white rug"
+    },
+    "dog-20": {
+        "data_dir": "dog-20",
+        "instance_prompt": "a red dog"
+    },
+    "dog-21": {
+        "data_dir": "dog-21",
+        "instance_prompt": "a purple dog"
+    },
+    "dog-22": {
+        "data_dir": "dog-22",
+        "instance_prompt": "a shiny dog"
+    },
+    "dog-23": {
+        "data_dir": "dog-23",
+        "instance_prompt": "a wet dog"
+    },
+    "dog-24": {
+        "data_dir": "dog-24",
+        "instance_prompt": "a cube shaped dog"
+    },
+    "dog2-0": {
+        "data_dir": "dog2-0",
+        "instance_prompt": "a dog in the jungle"
+    },
+    "dog2-1": {
+        "data_dir": "dog2-1",
+        "instance_prompt": "a dog in the snow"
+    },
+    "dog2-2": {
+        "data_dir": "dog2-2",
+        "instance_prompt": "a dog on the beach"
+    },
+    "dog2-3": {
+        "data_dir": "dog2-3",
+        "instance_prompt": "a dog on a cobblestone street"
+    },
+    "dog2-4": {
+        "data_dir": "dog2-4",
+        "instance_prompt": "a dog on top of pink fabric"
+    },
+    "dog2-5": {
+        "data_dir": "dog2-5",
+        "instance_prompt": "a dog on top of a wooden floor"
+    },
+    "dog2-6": {
+        "data_dir": "dog2-6",
+        "instance_prompt": "a dog with a city in the background"
+    },
+    "dog2-7": {
+        "data_dir": "dog2-7",
+        "instance_prompt": "a dog with a mountain in the background"
+    },
+    "dog2-8": {
+        "data_dir": "dog2-8",
+        "instance_prompt": "a dog with a blue house in the background"
+    },
+    "dog2-9": {
+        "data_dir": "dog2-9",
+        "instance_prompt": "a dog on top of a purple rug in a forest"
+    },
+    "dog2-10": {
+        "data_dir": "dog2-10",
+        "instance_prompt": "a dog with a wheat field in the background"
+    },
+    "dog2-11": {
+        "data_dir": "dog2-11",
+        "instance_prompt": "a dog with a tree and autumn leaves in the background"
+    },
+    "dog2-12": {
+        "data_dir": "dog2-12",
+        "instance_prompt": "a dog with the Eiffel Tower in the background"
+    },
+    "dog2-13": {
+        "data_dir": "dog2-13",
+        "instance_prompt": "a dog floating on top of water"
+    },
+    "dog2-14": {
+        "data_dir": "dog2-14",
+        "instance_prompt": "a dog floating in an ocean of milk"
+    },
+    "dog2-15": {
+        "data_dir": "dog2-15",
+        "instance_prompt": "a dog on top of green grass with sunflowers around it"
+    },
+    "dog2-16": {
+        "data_dir": "dog2-16",
+        "instance_prompt": "a dog on top of a mirror"
+    },
+    "dog2-17": {
+        "data_dir": "dog2-17",
+        "instance_prompt": "a dog on top of the sidewalk in a crowded street"
+    },
+    "dog2-18": {
+        "data_dir": "dog2-18",
+        "instance_prompt": "a dog on top of a dirt road"
+    },
+    "dog2-19": {
+        "data_dir": "dog2-19",
+        "instance_prompt": "a dog on top of a white rug"
+    },
+    "dog2-20": {
+        "data_dir": "dog2-20",
+        "instance_prompt": "a red dog"
+    },
+    "dog2-21": {
+        "data_dir": "dog2-21",
+        "instance_prompt": "a purple dog"
+    },
+    "dog2-22": {
+        "data_dir": "dog2-22",
+        "instance_prompt": "a shiny dog"
+    },
+    "dog2-23": {
+        "data_dir": "dog2-23",
+        "instance_prompt": "a wet dog"
+    },
+    "dog2-24": {
+        "data_dir": "dog2-24",
+        "instance_prompt": "a cube shaped dog"
+    },
+    "dog3-0": {
+        "data_dir": "dog3-0",
+        "instance_prompt": "a dog in the jungle"
+    },
+    "dog3-1": {
+        "data_dir": "dog3-1",
+        "instance_prompt": "a dog in the snow"
+    },
+    "dog3-2": {
+        "data_dir": "dog3-2",
+        "instance_prompt": "a dog on the beach"
+    },
+    "dog3-3": {
+        "data_dir": "dog3-3",
+        "instance_prompt": "a dog on a cobblestone street"
+    },
+    "dog3-4": {
+        "data_dir": "dog3-4",
+        "instance_prompt": "a dog on top of pink fabric"
+    },
+    "dog3-5": {
+        "data_dir": "dog3-5",
+        "instance_prompt": "a dog on top of a wooden floor"
+    },
+    "dog3-6": {
+        "data_dir": "dog3-6",
+        "instance_prompt": "a dog with a city in the background"
+    },
+    "dog3-7": {
+        "data_dir": "dog3-7",
+        "instance_prompt": "a dog with a mountain in the background"
+    },
+    "dog3-8": {
+        "data_dir": "dog3-8",
+        "instance_prompt": "a dog with a blue house in the background"
+    },
+    "dog3-9": {
+        "data_dir": "dog3-9",
+        "instance_prompt": "a dog on top of a purple rug in a forest"
+    },
+    "dog3-10": {
+        "data_dir": "dog3-10",
+        "instance_prompt": "a dog with a wheat field in the background"
+    },
+    "dog3-11": {
+        "data_dir": "dog3-11",
+        "instance_prompt": "a dog with a tree and autumn leaves in the background"
+    },
+    "dog3-12": {
+        "data_dir": "dog3-12",
+        "instance_prompt": "a dog with the Eiffel Tower in the background"
+    },
+    "dog3-13": {
+        "data_dir": "dog3-13",
+        "instance_prompt": "a dog floating on top of water"
+    },
+    "dog3-14": {
+        "data_dir": "dog3-14",
+        "instance_prompt": "a dog floating in an ocean of milk"
+    },
+    "dog3-15": {
+        "data_dir": "dog3-15",
+        "instance_prompt": "a dog on top of green grass with sunflowers around it"
+    },
+    "dog3-16": {
+        "data_dir": "dog3-16",
+        "instance_prompt": "a dog on top of a mirror"
+    },
+    "dog3-17": {
+        "data_dir": "dog3-17",
+        "instance_prompt": "a dog on top of the sidewalk in a crowded street"
+    },
+    "dog3-18": {
+        "data_dir": "dog3-18",
+        "instance_prompt": "a dog on top of a dirt road"
+    },
+    "dog3-19": {
+        "data_dir": "dog3-19",
+        "instance_prompt": "a dog on top of a white rug"
+    },
+    "dog3-20": {
+        "data_dir": "dog3-20",
+        "instance_prompt": "a red dog"
+    },
+    "dog3-21": {
+        "data_dir": "dog3-21",
+        "instance_prompt": "a purple dog"
+    },
+    "dog3-22": {
+        "data_dir": "dog3-22",
+        "instance_prompt": "a shiny dog"
+    },
+    "dog3-23": {
+        "data_dir": "dog3-23",
+        "instance_prompt": "a wet dog"
+    },
+    "dog3-24": {
+        "data_dir": "dog3-24",
+        "instance_prompt": "a cube shaped dog"
+    },
+    "dog5-0": {
+        "data_dir": "dog5-0",
+        "instance_prompt": "a dog in the jungle"
+    },
+    "dog5-1": {
+        "data_dir": "dog5-1",
+        "instance_prompt": "a dog in the snow"
+    },
+    "dog5-2": {
+        "data_dir": "dog5-2",
+        "instance_prompt": "a dog on the beach"
+    },
+    "dog5-3": {
+        "data_dir": "dog5-3",
+        "instance_prompt": "a dog on a cobblestone street"
+    },
+    "dog5-4": {
+        "data_dir": "dog5-4",
+        "instance_prompt": "a dog on top of pink fabric"
+    },
+    "dog5-5": {
+        "data_dir": "dog5-5",
+        "instance_prompt": "a dog on top of a wooden floor"
+    },
+    "dog5-6": {
+        "data_dir": "dog5-6",
+        "instance_prompt": "a dog with a city in the background"
+    },
+    "dog5-7": {
+        "data_dir": "dog5-7",
+        "instance_prompt": "a dog with a mountain in the background"
+    },
+    "dog5-8": {
+        "data_dir": "dog5-8",
+        "instance_prompt": "a dog with a blue house in the background"
+    },
+    "dog5-9": {
+        "data_dir": "dog5-9",
+        "instance_prompt": "a dog on top of a purple rug in a forest"
+    },
+    "dog5-10": {
+        "data_dir": "dog5-10",
+        "instance_prompt": "a dog with a wheat field in the background"
+    },
+    "dog5-11": {
+        "data_dir": "dog5-11",
+        "instance_prompt": "a dog with a tree and autumn leaves in the background"
+    },
+    "dog5-12": {
+        "data_dir": "dog5-12",
+        "instance_prompt": "a dog with the Eiffel Tower in the background"
+    },
+    "dog5-13": {
+        "data_dir": "dog5-13",
+        "instance_prompt": "a dog floating on top of water"
+    },
+    "dog5-14": {
+        "data_dir": "dog5-14",
+        "instance_prompt": "a dog floating in an ocean of milk"
+    },
+    "dog5-15": {
+        "data_dir": "dog5-15",
+        "instance_prompt": "a dog on top of green grass with sunflowers around it"
+    },
+    "dog5-16": {
+        "data_dir": "dog5-16",
+        "instance_prompt": "a dog on top of a mirror"
+    },
+    "dog5-17": {
+        "data_dir": "dog5-17",
+        "instance_prompt": "a dog on top of the sidewalk in a crowded street"
+    },
+    "dog5-18": {
+        "data_dir": "dog5-18",
+        "instance_prompt": "a dog on top of a dirt road"
+    },
+    "dog5-19": {
+        "data_dir": "dog5-19",
+        "instance_prompt": "a dog on top of a white rug"
+    },
+    "dog5-20": {
+        "data_dir": "dog5-20",
+        "instance_prompt": "a red dog"
+    },
+    "dog5-21": {
+        "data_dir": "dog5-21",
+        "instance_prompt": "a purple dog"
+    },
+    "dog5-22": {
+        "data_dir": "dog5-22",
+        "instance_prompt": "a shiny dog"
+    },
+    "dog5-23": {
+        "data_dir": "dog5-23",
+        "instance_prompt": "a wet dog"
+    },
+    "dog5-24": {
+        "data_dir": "dog5-24",
+        "instance_prompt": "a cube shaped dog"
+    },
+    "dog6-0": {
+        "data_dir": "dog6-0",
+        "instance_prompt": "a dog in the jungle"
+    },
+    "dog6-1": {
+        "data_dir": "dog6-1",
+        "instance_prompt": "a dog in the snow"
+    },
+    "dog6-2": {
+        "data_dir": "dog6-2",
+        "instance_prompt": "a dog on the beach"
+    },
+    "dog6-3": {
+        "data_dir": "dog6-3",
+        "instance_prompt": "a dog on a cobblestone street"
+    },
+    "dog6-4": {
+        "data_dir": "dog6-4",
+        "instance_prompt": "a dog on top of pink fabric"
+    },
+    "dog6-5": {
+        "data_dir": "dog6-5",
+        "instance_prompt": "a dog on top of a wooden floor"
+    },
+    "dog6-6": {
+        "data_dir": "dog6-6",
+        "instance_prompt": "a dog with a city in the background"
+    },
+    "dog6-7": {
+        "data_dir": "dog6-7",
+        "instance_prompt": "a dog with a mountain in the background"
+    },
+    "dog6-8": {
+        "data_dir": "dog6-8",
+        "instance_prompt": "a dog with a blue house in the background"
+    },
+    "dog6-9": {
+        "data_dir": "dog6-9",
+        "instance_prompt": "a dog on top of a purple rug in a forest"
+    },
+    "dog6-10": {
+        "data_dir": "dog6-10",
+        "instance_prompt": "a dog with a wheat field in the background"
+    },
+    "dog6-11": {
+        "data_dir": "dog6-11",
+        "instance_prompt": "a dog with a tree and autumn leaves in the background"
+    },
+    "dog6-12": {
+        "data_dir": "dog6-12",
+        "instance_prompt": "a dog with the Eiffel Tower in the background"
+    },
+    "dog6-13": {
+        "data_dir": "dog6-13",
+        "instance_prompt": "a dog floating on top of water"
+    },
+    "dog6-14": {
+        "data_dir": "dog6-14",
+        "instance_prompt": "a dog floating in an ocean of milk"
+    },
+    "dog6-15": {
+        "data_dir": "dog6-15",
+        "instance_prompt": "a dog on top of green grass with sunflowers around it"
+    },
+    "dog6-16": {
+        "data_dir": "dog6-16",
+        "instance_prompt": "a dog on top of a mirror"
+    },
+    "dog6-17": {
+        "data_dir": "dog6-17",
+        "instance_prompt": "a dog on top of the sidewalk in a crowded street"
+    },
+    "dog6-18": {
+        "data_dir": "dog6-18",
+        "instance_prompt": "a dog on top of a dirt road"
+    },
+    "dog6-19": {
+        "data_dir": "dog6-19",
+        "instance_prompt": "a dog on top of a white rug"
+    },
+    "dog6-20": {
+        "data_dir": "dog6-20",
+        "instance_prompt": "a red dog"
+    },
+    "dog6-21": {
+        "data_dir": "dog6-21",
+        "instance_prompt": "a purple dog"
+    },
+    "dog6-22": {
+        "data_dir": "dog6-22",
+        "instance_prompt": "a shiny dog"
+    },
+    "dog6-23": {
+        "data_dir": "dog6-23",
+        "instance_prompt": "a wet dog"
+    },
+    "dog6-24": {
+        "data_dir": "dog6-24",
+        "instance_prompt": "a cube shaped dog"
+    },
+    "dog7-0": {
+        "data_dir": "dog7-0",
+        "instance_prompt": "a dog in the jungle"
+    },
+    "dog7-1": {
+        "data_dir": "dog7-1",
+        "instance_prompt": "a dog in the snow"
+    },
+    "dog7-2": {
+        "data_dir": "dog7-2",
+        "instance_prompt": "a dog on the beach"
+    },
+    "dog7-3": {
+        "data_dir": "dog7-3",
+        "instance_prompt": "a dog on a cobblestone street"
+    },
+    "dog7-4": {
+        "data_dir": "dog7-4",
+        "instance_prompt": "a dog on top of pink fabric"
+    },
+    "dog7-5": {
+        "data_dir": "dog7-5",
+        "instance_prompt": "a dog on top of a wooden floor"
+    },
+    "dog7-6": {
+        "data_dir": "dog7-6",
+        "instance_prompt": "a dog with a city in the background"
+    },
+    "dog7-7": {
+        "data_dir": "dog7-7",
+        "instance_prompt": "a dog with a mountain in the background"
+    },
+    "dog7-8": {
+        "data_dir": "dog7-8",
+        "instance_prompt": "a dog with a blue house in the background"
+    },
+    "dog7-9": {
+        "data_dir": "dog7-9",
+        "instance_prompt": "a dog on top of a purple rug in a forest"
+    },
+    "dog7-10": {
+        "data_dir": "dog7-10",
+        "instance_prompt": "a dog with a wheat field in the background"
+    },
+    "dog7-11": {
+        "data_dir": "dog7-11",
+        "instance_prompt": "a dog with a tree and autumn leaves in the background"
+    },
+    "dog7-12": {
+        "data_dir": "dog7-12",
+        "instance_prompt": "a dog with the Eiffel Tower in the background"
+    },
+    "dog7-13": {
+        "data_dir": "dog7-13",
+        "instance_prompt": "a dog floating on top of water"
+    },
+    "dog7-14": {
+        "data_dir": "dog7-14",
+        "instance_prompt": "a dog floating in an ocean of milk"
+    },
+    "dog7-15": {
+        "data_dir": "dog7-15",
+        "instance_prompt": "a dog on top of green grass with sunflowers around it"
+    },
+    "dog7-16": {
+        "data_dir": "dog7-16",
+        "instance_prompt": "a dog on top of a mirror"
+    },
+    "dog7-17": {
+        "data_dir": "dog7-17",
+        "instance_prompt": "a dog on top of the sidewalk in a crowded street"
+    },
+    "dog7-18": {
+        "data_dir": "dog7-18",
+        "instance_prompt": "a dog on top of a dirt road"
+    },
+    "dog7-19": {
+        "data_dir": "dog7-19",
+        "instance_prompt": "a dog on top of a white rug"
+    },
+    "dog7-20": {
+        "data_dir": "dog7-20",
+        "instance_prompt": "a red dog"
+    },
+    "dog7-21": {
+        "data_dir": "dog7-21",
+        "instance_prompt": "a purple dog"
+    },
+    "dog7-22": {
+        "data_dir": "dog7-22",
+        "instance_prompt": "a shiny dog"
+    },
+    "dog7-23": {
+        "data_dir": "dog7-23",
+        "instance_prompt": "a wet dog"
+    },
+    "dog7-24": {
+        "data_dir": "dog7-24",
+        "instance_prompt": "a cube shaped dog"
+    },
+    "dog8-0": {
+        "data_dir": "dog8-0",
+        "instance_prompt": "a dog in the jungle"
+    },
+    "dog8-1": {
+        "data_dir": "dog8-1",
+        "instance_prompt": "a dog in the snow"
+    },
+    "dog8-2": {
+        "data_dir": "dog8-2",
+        "instance_prompt": "a dog on the beach"
+    },
+    "dog8-3": {
+        "data_dir": "dog8-3",
+        "instance_prompt": "a dog on a cobblestone street"
+    },
+    "dog8-4": {
+        "data_dir": "dog8-4",
+        "instance_prompt": "a dog on top of pink fabric"
+    },
+    "dog8-5": {
+        "data_dir": "dog8-5",
+        "instance_prompt": "a dog on top of a wooden floor"
+    },
+    "dog8-6": {
+        "data_dir": "dog8-6",
+        "instance_prompt": "a dog with a city in the background"
+    },
+    "dog8-7": {
+        "data_dir": "dog8-7",
+        "instance_prompt": "a dog with a mountain in the background"
+    },
+    "dog8-8": {
+        "data_dir": "dog8-8",
+        "instance_prompt": "a dog with a blue house in the background"
+    },
+    "dog8-9": {
+        "data_dir": "dog8-9",
+        "instance_prompt": "a dog on top of a purple rug in a forest"
+    },
+    "dog8-10": {
+        "data_dir": "dog8-10",
+        "instance_prompt": "a dog with a wheat field in the background"
+    },
+    "dog8-11": {
+        "data_dir": "dog8-11",
+        "instance_prompt": "a dog with a tree and autumn leaves in the background"
+    },
+    "dog8-12": {
+        "data_dir": "dog8-12",
+        "instance_prompt": "a dog with the Eiffel Tower in the background"
+    },
+    "dog8-13": {
+        "data_dir": "dog8-13",
+        "instance_prompt": "a dog floating on top of water"
+    },
+    "dog8-14": {
+        "data_dir": "dog8-14",
+        "instance_prompt": "a dog floating in an ocean of milk"
+    },
+    "dog8-15": {
+        "data_dir": "dog8-15",
+        "instance_prompt": "a dog on top of green grass with sunflowers around it"
+    },
+    "dog8-16": {
+        "data_dir": "dog8-16",
+        "instance_prompt": "a dog on top of a mirror"
+    },
+    "dog8-17": {
+        "data_dir": "dog8-17",
+        "instance_prompt": "a dog on top of the sidewalk in a crowded street"
+    },
+    "dog8-18": {
+        "data_dir": "dog8-18",
+        "instance_prompt": "a dog on top of a dirt road"
+    },
+    "dog8-19": {
+        "data_dir": "dog8-19",
+        "instance_prompt": "a dog on top of a white rug"
+    },
+    "dog8-20": {
+        "data_dir": "dog8-20",
+        "instance_prompt": "a red dog"
+    },
+    "dog8-21": {
+        "data_dir": "dog8-21",
+        "instance_prompt": "a purple dog"
+    },
+    "dog8-22": {
+        "data_dir": "dog8-22",
+        "instance_prompt": "a shiny dog"
+    },
+    "dog8-23": {
+        "data_dir": "dog8-23",
+        "instance_prompt": "a wet dog"
+    },
+    "dog8-24": {
+        "data_dir": "dog8-24",
+        "instance_prompt": "a cube shaped dog"
+    },
+    "duck_toy-0": {
+        "data_dir": "duck_toy-0",
+        "instance_prompt": "a toy in the jungle"
+    },
+    "duck_toy-1": {
+        "data_dir": "duck_toy-1",
+        "instance_prompt": "a toy in the snow"
+    },
+    "duck_toy-2": {
+        "data_dir": "duck_toy-2",
+        "instance_prompt": "a toy on the beach"
+    },
+    "duck_toy-3": {
+        "data_dir": "duck_toy-3",
+        "instance_prompt": "a toy on a cobblestone street"
+    },
+    "duck_toy-4": {
+        "data_dir": "duck_toy-4",
+        "instance_prompt": "a toy on top of pink fabric"
+    },
+    "duck_toy-5": {
+        "data_dir": "duck_toy-5",
+        "instance_prompt": "a toy on top of a wooden floor"
+    },
+    "duck_toy-6": {
+        "data_dir": "duck_toy-6",
+        "instance_prompt": "a toy with a city in the background"
+    },
+    "duck_toy-7": {
+        "data_dir": "duck_toy-7",
+        "instance_prompt": "a toy with a mountain in the background"
+    },
+    "duck_toy-8": {
+        "data_dir": "duck_toy-8",
+        "instance_prompt": "a toy with a blue house in the background"
+    },
+    "duck_toy-9": {
+        "data_dir": "duck_toy-9",
+        "instance_prompt": "a toy on top of a purple rug in a forest"
+    },
+    "duck_toy-10": {
+        "data_dir": "duck_toy-10",
+        "instance_prompt": "a toy with a wheat field in the background"
+    },
+    "duck_toy-11": {
+        "data_dir": "duck_toy-11",
+        "instance_prompt": "a toy with a tree and autumn leaves in the background"
+    },
+    "duck_toy-12": {
+        "data_dir": "duck_toy-12",
+        "instance_prompt": "a toy with the Eiffel Tower in the background"
+    },
+    "duck_toy-13": {
+        "data_dir": "duck_toy-13",
+        "instance_prompt": "a toy floating on top of water"
+    },
+    "duck_toy-14": {
+        "data_dir": "duck_toy-14",
+        "instance_prompt": "a toy floating in an ocean of milk"
+    },
+    "duck_toy-15": {
+        "data_dir": "duck_toy-15",
+        "instance_prompt": "a toy on top of green grass with sunflowers around it"
+    },
+    "duck_toy-16": {
+        "data_dir": "duck_toy-16",
+        "instance_prompt": "a toy on top of a mirror"
+    },
+    "duck_toy-17": {
+        "data_dir": "duck_toy-17",
+        "instance_prompt": "a toy on top of the sidewalk in a crowded street"
+    },
+    "duck_toy-18": {
+        "data_dir": "duck_toy-18",
+        "instance_prompt": "a toy on top of a dirt road"
+    },
+    "duck_toy-19": {
+        "data_dir": "duck_toy-19",
+        "instance_prompt": "a toy on top of a white rug"
+    },
+    "duck_toy-20": {
+        "data_dir": "duck_toy-20",
+        "instance_prompt": "a red toy"
+    },
+    "duck_toy-21": {
+        "data_dir": "duck_toy-21",
+        "instance_prompt": "a purple toy"
+    },
+    "duck_toy-22": {
+        "data_dir": "duck_toy-22",
+        "instance_prompt": "a shiny toy"
+    },
+    "duck_toy-23": {
+        "data_dir": "duck_toy-23",
+        "instance_prompt": "a wet toy"
+    },
+    "duck_toy-24": {
+        "data_dir": "duck_toy-24",
+        "instance_prompt": "a cube shaped toy"
+    },
+    "fancy_boot-0": {
+        "data_dir": "fancy_boot-0",
+        "instance_prompt": "a boot in the jungle"
+    },
+    "fancy_boot-1": {
+        "data_dir": "fancy_boot-1",
+        "instance_prompt": "a boot in the snow"
+    },
+    "fancy_boot-2": {
+        "data_dir": "fancy_boot-2",
+        "instance_prompt": "a boot on the beach"
+    },
+    "fancy_boot-3": {
+        "data_dir": "fancy_boot-3",
+        "instance_prompt": "a boot on a cobblestone street"
+    },
+    "fancy_boot-4": {
+        "data_dir": "fancy_boot-4",
+        "instance_prompt": "a boot on top of pink fabric"
+    },
+    "fancy_boot-5": {
+        "data_dir": "fancy_boot-5",
+        "instance_prompt": "a boot on top of a wooden floor"
+    },
+    "fancy_boot-6": {
+        "data_dir": "fancy_boot-6",
+        "instance_prompt": "a boot with a city in the background"
+    },
+    "fancy_boot-7": {
+        "data_dir": "fancy_boot-7",
+        "instance_prompt": "a boot with a mountain in the background"
+    },
+    "fancy_boot-8": {
+        "data_dir": "fancy_boot-8",
+        "instance_prompt": "a boot with a blue house in the background"
+    },
+    "fancy_boot-9": {
+        "data_dir": "fancy_boot-9",
+        "instance_prompt": "a boot on top of a purple rug in a forest"
+    },
+    "fancy_boot-10": {
+        "data_dir": "fancy_boot-10",
+        "instance_prompt": "a boot with a wheat field in the background"
+    },
+    "fancy_boot-11": {
+        "data_dir": "fancy_boot-11",
+        "instance_prompt": "a boot with a tree and autumn leaves in the background"
+    },
+    "fancy_boot-12": {
+        "data_dir": "fancy_boot-12",
+        "instance_prompt": "a boot with the Eiffel Tower in the background"
+    },
+    "fancy_boot-13": {
+        "data_dir": "fancy_boot-13",
+        "instance_prompt": "a boot floating on top of water"
+    },
+    "fancy_boot-14": {
+        "data_dir": "fancy_boot-14",
+        "instance_prompt": "a boot floating in an ocean of milk"
+    },
+    "fancy_boot-15": {
+        "data_dir": "fancy_boot-15",
+        "instance_prompt": "a boot on top of green grass with sunflowers around it"
+    },
+    "fancy_boot-16": {
+        "data_dir": "fancy_boot-16",
+        "instance_prompt": "a boot on top of a mirror"
+    },
+    "fancy_boot-17": {
+        "data_dir": "fancy_boot-17",
+        "instance_prompt": "a boot on top of the sidewalk in a crowded street"
+    },
+    "fancy_boot-18": {
+        "data_dir": "fancy_boot-18",
+        "instance_prompt": "a boot on top of a dirt road"
+    },
+    "fancy_boot-19": {
+        "data_dir": "fancy_boot-19",
+        "instance_prompt": "a boot on top of a white rug"
+    },
+    "fancy_boot-20": {
+        "data_dir": "fancy_boot-20",
+        "instance_prompt": "a red boot"
+    },
+    "fancy_boot-21": {
+        "data_dir": "fancy_boot-21",
+        "instance_prompt": "a purple boot"
+    },
+    "fancy_boot-22": {
+        "data_dir": "fancy_boot-22",
+        "instance_prompt": "a shiny boot"
+    },
+    "fancy_boot-23": {
+        "data_dir": "fancy_boot-23",
+        "instance_prompt": "a wet boot"
+    },
+    "fancy_boot-24": {
+        "data_dir": "fancy_boot-24",
+        "instance_prompt": "a cube shaped boot"
+    },
+    "grey_sloth_plushie-0": {
+        "data_dir": "grey_sloth_plushie-0",
+        "instance_prompt": "a stuffed animal in the jungle"
+    },
+    "grey_sloth_plushie-1": {
+        "data_dir": "grey_sloth_plushie-1",
+        "instance_prompt": "a stuffed animal in the snow"
+    },
+    "grey_sloth_plushie-2": {
+        "data_dir": "grey_sloth_plushie-2",
+        "instance_prompt": "a stuffed animal on the beach"
+    },
+    "grey_sloth_plushie-3": {
+        "data_dir": "grey_sloth_plushie-3",
+        "instance_prompt": "a stuffed animal on a cobblestone street"
+    },
+    "grey_sloth_plushie-4": {
+        "data_dir": "grey_sloth_plushie-4",
+        "instance_prompt": "a stuffed animal on top of pink fabric"
+    },
+    "grey_sloth_plushie-5": {
+        "data_dir": "grey_sloth_plushie-5",
+        "instance_prompt": "a stuffed animal on top of a wooden floor"
+    },
+    "grey_sloth_plushie-6": {
+        "data_dir": "grey_sloth_plushie-6",
+        "instance_prompt": "a stuffed animal with a city in the background"
+    },
+    "grey_sloth_plushie-7": {
+        "data_dir": "grey_sloth_plushie-7",
+        "instance_prompt": "a stuffed animal with a mountain in the background"
+    },
+    "grey_sloth_plushie-8": {
+        "data_dir": "grey_sloth_plushie-8",
+        "instance_prompt": "a stuffed animal with a blue house in the background"
+    },
+    "grey_sloth_plushie-9": {
+        "data_dir": "grey_sloth_plushie-9",
+        "instance_prompt": "a stuffed animal on top of a purple rug in a forest"
+    },
+    "grey_sloth_plushie-10": {
+        "data_dir": "grey_sloth_plushie-10",
+        "instance_prompt": "a stuffed animal with a wheat field in the background"
+    },
+    "grey_sloth_plushie-11": {
+        "data_dir": "grey_sloth_plushie-11",
+        "instance_prompt": "a stuffed animal with a tree and autumn leaves in the background"
+    },
+    "grey_sloth_plushie-12": {
+        "data_dir": "grey_sloth_plushie-12",
+        "instance_prompt": "a stuffed animal with the Eiffel Tower in the background"
+    },
+    "grey_sloth_plushie-13": {
+        "data_dir": "grey_sloth_plushie-13",
+        "instance_prompt": "a stuffed animal floating on top of water"
+    },
+    "grey_sloth_plushie-14": {
+        "data_dir": "grey_sloth_plushie-14",
+        "instance_prompt": "a stuffed animal floating in an ocean of milk"
+    },
+    "grey_sloth_plushie-15": {
+        "data_dir": "grey_sloth_plushie-15",
+        "instance_prompt": "a stuffed animal on top of green grass with sunflowers around it"
+    },
+    "grey_sloth_plushie-16": {
+        "data_dir": "grey_sloth_plushie-16",
+        "instance_prompt": "a stuffed animal on top of a mirror"
+    },
+    "grey_sloth_plushie-17": {
+        "data_dir": "grey_sloth_plushie-17",
+        "instance_prompt": "a stuffed animal on top of the sidewalk in a crowded street"
+    },
+    "grey_sloth_plushie-18": {
+        "data_dir": "grey_sloth_plushie-18",
+        "instance_prompt": "a stuffed animal on top of a dirt road"
+    },
+    "grey_sloth_plushie-19": {
+        "data_dir": "grey_sloth_plushie-19",
+        "instance_prompt": "a stuffed animal on top of a white rug"
+    },
+    "grey_sloth_plushie-20": {
+        "data_dir": "grey_sloth_plushie-20",
+        "instance_prompt": "a red stuffed animal"
+    },
+    "grey_sloth_plushie-21": {
+        "data_dir": "grey_sloth_plushie-21",
+        "instance_prompt": "a purple stuffed animal"
+    },
+    "grey_sloth_plushie-22": {
+        "data_dir": "grey_sloth_plushie-22",
+        "instance_prompt": "a shiny stuffed animal"
+    },
+    "grey_sloth_plushie-23": {
+        "data_dir": "grey_sloth_plushie-23",
+        "instance_prompt": "a wet stuffed animal"
+    },
+    "grey_sloth_plushie-24": {
+        "data_dir": "grey_sloth_plushie-24",
+        "instance_prompt": "a cube shaped stuffed animal"
+    },
+    "monster_toy-0": {
+        "data_dir": "monster_toy-0",
+        "instance_prompt": "a toy in the jungle"
+    },
+    "monster_toy-1": {
+        "data_dir": "monster_toy-1",
+        "instance_prompt": "a toy in the snow"
+    },
+    "monster_toy-2": {
+        "data_dir": "monster_toy-2",
+        "instance_prompt": "a toy on the beach"
+    },
+    "monster_toy-3": {
+        "data_dir": "monster_toy-3",
+        "instance_prompt": "a toy on a cobblestone street"
+    },
+    "monster_toy-4": {
+        "data_dir": "monster_toy-4",
+        "instance_prompt": "a toy on top of pink fabric"
+    },
+    "monster_toy-5": {
+        "data_dir": "monster_toy-5",
+        "instance_prompt": "a toy on top of a wooden floor"
+    },
+    "monster_toy-6": {
+        "data_dir": "monster_toy-6",
+        "instance_prompt": "a toy with a city in the background"
+    },
+    "monster_toy-7": {
+        "data_dir": "monster_toy-7",
+        "instance_prompt": "a toy with a mountain in the background"
+    },
+    "monster_toy-8": {
+        "data_dir": "monster_toy-8",
+        "instance_prompt": "a toy with a blue house in the background"
+    },
+    "monster_toy-9": {
+        "data_dir": "monster_toy-9",
+        "instance_prompt": "a toy on top of a purple rug in a forest"
+    },
+    "monster_toy-10": {
+        "data_dir": "monster_toy-10",
+        "instance_prompt": "a toy with a wheat field in the background"
+    },
+    "monster_toy-11": {
+        "data_dir": "monster_toy-11",
+        "instance_prompt": "a toy with a tree and autumn leaves in the background"
+    },
+    "monster_toy-12": {
+        "data_dir": "monster_toy-12",
+        "instance_prompt": "a toy with the Eiffel Tower in the background"
+    },
+    "monster_toy-13": {
+        "data_dir": "monster_toy-13",
+        "instance_prompt": "a toy floating on top of water"
+    },
+    "monster_toy-14": {
+        "data_dir": "monster_toy-14",
+        "instance_prompt": "a toy floating in an ocean of milk"
+    },
+    "monster_toy-15": {
+        "data_dir": "monster_toy-15",
+        "instance_prompt": "a toy on top of green grass with sunflowers around it"
+    },
+    "monster_toy-16": {
+        "data_dir": "monster_toy-16",
+        "instance_prompt": "a toy on top of a mirror"
+    },
+    "monster_toy-17": {
+        "data_dir": "monster_toy-17",
+        "instance_prompt": "a toy on top of the sidewalk in a crowded street"
+    },
+    "monster_toy-18": {
+        "data_dir": "monster_toy-18",
+        "instance_prompt": "a toy on top of a dirt road"
+    },
+    "monster_toy-19": {
+        "data_dir": "monster_toy-19",
+        "instance_prompt": "a toy on top of a white rug"
+    },
+    "monster_toy-20": {
+        "data_dir": "monster_toy-20",
+        "instance_prompt": "a red toy"
+    },
+    "monster_toy-21": {
+        "data_dir": "monster_toy-21",
+        "instance_prompt": "a purple toy"
+    },
+    "monster_toy-22": {
+        "data_dir": "monster_toy-22",
+        "instance_prompt": "a shiny toy"
+    },
+    "monster_toy-23": {
+        "data_dir": "monster_toy-23",
+        "instance_prompt": "a wet toy"
+    },
+    "monster_toy-24": {
+        "data_dir": "monster_toy-24",
+        "instance_prompt": "a cube shaped toy"
+    },
+    "pink_sunglasses-0": {
+        "data_dir": "pink_sunglasses-0",
+        "instance_prompt": "a glasses in the jungle"
+    },
+    "pink_sunglasses-1": {
+        "data_dir": "pink_sunglasses-1",
+        "instance_prompt": "a glasses in the snow"
+    },
+    "pink_sunglasses-2": {
+        "data_dir": "pink_sunglasses-2",
+        "instance_prompt": "a glasses on the beach"
+    },
+    "pink_sunglasses-3": {
+        "data_dir": "pink_sunglasses-3",
+        "instance_prompt": "a glasses on a cobblestone street"
+    },
+    "pink_sunglasses-4": {
+        "data_dir": "pink_sunglasses-4",
+        "instance_prompt": "a glasses on top of pink fabric"
+    },
+    "pink_sunglasses-5": {
+        "data_dir": "pink_sunglasses-5",
+        "instance_prompt": "a glasses on top of a wooden floor"
+    },
+    "pink_sunglasses-6": {
+        "data_dir": "pink_sunglasses-6",
+        "instance_prompt": "a glasses with a city in the background"
+    },
+    "pink_sunglasses-7": {
+        "data_dir": "pink_sunglasses-7",
+        "instance_prompt": "a glasses with a mountain in the background"
+    },
+    "pink_sunglasses-8": {
+        "data_dir": "pink_sunglasses-8",
+        "instance_prompt": "a glasses with a blue house in the background"
+    },
+    "pink_sunglasses-9": {
+        "data_dir": "pink_sunglasses-9",
+        "instance_prompt": "a glasses on top of a purple rug in a forest"
+    },
+    "pink_sunglasses-10": {
+        "data_dir": "pink_sunglasses-10",
+        "instance_prompt": "a glasses with a wheat field in the background"
+    },
+    "pink_sunglasses-11": {
+        "data_dir": "pink_sunglasses-11",
+        "instance_prompt": "a glasses with a tree and autumn leaves in the background"
+    },
+    "pink_sunglasses-12": {
+        "data_dir": "pink_sunglasses-12",
+        "instance_prompt": "a glasses with the Eiffel Tower in the background"
+    },
+    "pink_sunglasses-13": {
+        "data_dir": "pink_sunglasses-13",
+        "instance_prompt": "a glasses floating on top of water"
+    },
+    "pink_sunglasses-14": {
+        "data_dir": "pink_sunglasses-14",
+        "instance_prompt": "a glasses floating in an ocean of milk"
+    },
+    "pink_sunglasses-15": {
+        "data_dir": "pink_sunglasses-15",
+        "instance_prompt": "a glasses on top of green grass with sunflowers around it"
+    },
+    "pink_sunglasses-16": {
+        "data_dir": "pink_sunglasses-16",
+        "instance_prompt": "a glasses on top of a mirror"
+    },
+    "pink_sunglasses-17": {
+        "data_dir": "pink_sunglasses-17",
+        "instance_prompt": "a glasses on top of the sidewalk in a crowded street"
+    },
+    "pink_sunglasses-18": {
+        "data_dir": "pink_sunglasses-18",
+        "instance_prompt": "a glasses on top of a dirt road"
+    },
+    "pink_sunglasses-19": {
+        "data_dir": "pink_sunglasses-19",
+        "instance_prompt": "a glasses on top of a white rug"
+    },
+    "pink_sunglasses-20": {
+        "data_dir": "pink_sunglasses-20",
+        "instance_prompt": "a red glasses"
+    },
+    "pink_sunglasses-21": {
+        "data_dir": "pink_sunglasses-21",
+        "instance_prompt": "a purple glasses"
+    },
+    "pink_sunglasses-22": {
+        "data_dir": "pink_sunglasses-22",
+        "instance_prompt": "a shiny glasses"
+    },
+    "pink_sunglasses-23": {
+        "data_dir": "pink_sunglasses-23",
+        "instance_prompt": "a wet glasses"
+    },
+    "pink_sunglasses-24": {
+        "data_dir": "pink_sunglasses-24",
+        "instance_prompt": "a cube shaped glasses"
+    },
+    "poop_emoji-0": {
+        "data_dir": "poop_emoji-0",
+        "instance_prompt": "a toy in the jungle"
+    },
+    "poop_emoji-1": {
+        "data_dir": "poop_emoji-1",
+        "instance_prompt": "a toy in the snow"
+    },
+    "poop_emoji-2": {
+        "data_dir": "poop_emoji-2",
+        "instance_prompt": "a toy on the beach"
+    },
+    "poop_emoji-3": {
+        "data_dir": "poop_emoji-3",
+        "instance_prompt": "a toy on a cobblestone street"
+    },
+    "poop_emoji-4": {
+        "data_dir": "poop_emoji-4",
+        "instance_prompt": "a toy on top of pink fabric"
+    },
+    "poop_emoji-5": {
+        "data_dir": "poop_emoji-5",
+        "instance_prompt": "a toy on top of a wooden floor"
+    },
+    "poop_emoji-6": {
+        "data_dir": "poop_emoji-6",
+        "instance_prompt": "a toy with a city in the background"
+    },
+    "poop_emoji-7": {
+        "data_dir": "poop_emoji-7",
+        "instance_prompt": "a toy with a mountain in the background"
+    },
+    "poop_emoji-8": {
+        "data_dir": "poop_emoji-8",
+        "instance_prompt": "a toy with a blue house in the background"
+    },
+    "poop_emoji-9": {
+        "data_dir": "poop_emoji-9",
+        "instance_prompt": "a toy on top of a purple rug in a forest"
+    },
+    "poop_emoji-10": {
+        "data_dir": "poop_emoji-10",
+        "instance_prompt": "a toy with a wheat field in the background"
+    },
+    "poop_emoji-11": {
+        "data_dir": "poop_emoji-11",
+        "instance_prompt": "a toy with a tree and autumn leaves in the background"
+    },
+    "poop_emoji-12": {
+        "data_dir": "poop_emoji-12",
+        "instance_prompt": "a toy with the Eiffel Tower in the background"
+    },
+    "poop_emoji-13": {
+        "data_dir": "poop_emoji-13",
+        "instance_prompt": "a toy floating on top of water"
+    },
+    "poop_emoji-14": {
+        "data_dir": "poop_emoji-14",
+        "instance_prompt": "a toy floating in an ocean of milk"
+    },
+    "poop_emoji-15": {
+        "data_dir": "poop_emoji-15",
+        "instance_prompt": "a toy on top of green grass with sunflowers around it"
+    },
+    "poop_emoji-16": {
+        "data_dir": "poop_emoji-16",
+        "instance_prompt": "a toy on top of a mirror"
+    },
+    "poop_emoji-17": {
+        "data_dir": "poop_emoji-17",
+        "instance_prompt": "a toy on top of the sidewalk in a crowded street"
+    },
+    "poop_emoji-18": {
+        "data_dir": "poop_emoji-18",
+        "instance_prompt": "a toy on top of a dirt road"
+    },
+    "poop_emoji-19": {
+        "data_dir": "poop_emoji-19",
+        "instance_prompt": "a toy on top of a white rug"
+    },
+    "poop_emoji-20": {
+        "data_dir": "poop_emoji-20",
+        "instance_prompt": "a red toy"
+    },
+    "poop_emoji-21": {
+        "data_dir": "poop_emoji-21",
+        "instance_prompt": "a purple toy"
+    },
+    "poop_emoji-22": {
+        "data_dir": "poop_emoji-22",
+        "instance_prompt": "a shiny toy"
+    },
+    "poop_emoji-23": {
+        "data_dir": "poop_emoji-23",
+        "instance_prompt": "a wet toy"
+    },
+    "poop_emoji-24": {
+        "data_dir": "poop_emoji-24",
+        "instance_prompt": "a cube shaped toy"
+    },
+    "rc_car-0": {
+        "data_dir": "rc_car-0",
+        "instance_prompt": "a toy in the jungle"
+    },
+    "rc_car-1": {
+        "data_dir": "rc_car-1",
+        "instance_prompt": "a toy in the snow"
+    },
+    "rc_car-2": {
+        "data_dir": "rc_car-2",
+        "instance_prompt": "a toy on the beach"
+    },
+    "rc_car-3": {
+        "data_dir": "rc_car-3",
+        "instance_prompt": "a toy on a cobblestone street"
+    },
+    "rc_car-4": {
+        "data_dir": "rc_car-4",
+        "instance_prompt": "a toy on top of pink fabric"
+    },
+    "rc_car-5": {
+        "data_dir": "rc_car-5",
+        "instance_prompt": "a toy on top of a wooden floor"
+    },
+    "rc_car-6": {
+        "data_dir": "rc_car-6",
+        "instance_prompt": "a toy with a city in the background"
+    },
+    "rc_car-7": {
+        "data_dir": "rc_car-7",
+        "instance_prompt": "a toy with a mountain in the background"
+    },
+    "rc_car-8": {
+        "data_dir": "rc_car-8",
+        "instance_prompt": "a toy with a blue house in the background"
+    },
+    "rc_car-9": {
+        "data_dir": "rc_car-9",
+        "instance_prompt": "a toy on top of a purple rug in a forest"
+    },
+    "rc_car-10": {
+        "data_dir": "rc_car-10",
+        "instance_prompt": "a toy with a wheat field in the background"
+    },
+    "rc_car-11": {
+        "data_dir": "rc_car-11",
+        "instance_prompt": "a toy with a tree and autumn leaves in the background"
+    },
+    "rc_car-12": {
+        "data_dir": "rc_car-12",
+        "instance_prompt": "a toy with the Eiffel Tower in the background"
+    },
+    "rc_car-13": {
+        "data_dir": "rc_car-13",
+        "instance_prompt": "a toy floating on top of water"
+    },
+    "rc_car-14": {
+        "data_dir": "rc_car-14",
+        "instance_prompt": "a toy floating in an ocean of milk"
+    },
+    "rc_car-15": {
+        "data_dir": "rc_car-15",
+        "instance_prompt": "a toy on top of green grass with sunflowers around it"
+    },
+    "rc_car-16": {
+        "data_dir": "rc_car-16",
+        "instance_prompt": "a toy on top of a mirror"
+    },
+    "rc_car-17": {
+        "data_dir": "rc_car-17",
+        "instance_prompt": "a toy on top of the sidewalk in a crowded street"
+    },
+    "rc_car-18": {
+        "data_dir": "rc_car-18",
+        "instance_prompt": "a toy on top of a dirt road"
+    },
+    "rc_car-19": {
+        "data_dir": "rc_car-19",
+        "instance_prompt": "a toy on top of a white rug"
+    },
+    "rc_car-20": {
+        "data_dir": "rc_car-20",
+        "instance_prompt": "a red toy"
+    },
+    "rc_car-21": {
+        "data_dir": "rc_car-21",
+        "instance_prompt": "a purple toy"
+    },
+    "rc_car-22": {
+        "data_dir": "rc_car-22",
+        "instance_prompt": "a shiny toy"
+    },
+    "rc_car-23": {
+        "data_dir": "rc_car-23",
+        "instance_prompt": "a wet toy"
+    },
+    "rc_car-24": {
+        "data_dir": "rc_car-24",
+        "instance_prompt": "a cube shaped toy"
+    },
+    "red_cartoon-0": {
+        "data_dir": "red_cartoon-0",
+        "instance_prompt": "a cartoon in the jungle"
+    },
+    "red_cartoon-1": {
+        "data_dir": "red_cartoon-1",
+        "instance_prompt": "a cartoon in the snow"
+    },
+    "red_cartoon-2": {
+        "data_dir": "red_cartoon-2",
+        "instance_prompt": "a cartoon on the beach"
+    },
+    "red_cartoon-3": {
+        "data_dir": "red_cartoon-3",
+        "instance_prompt": "a cartoon on a cobblestone street"
+    },
+    "red_cartoon-4": {
+        "data_dir": "red_cartoon-4",
+        "instance_prompt": "a cartoon on top of pink fabric"
+    },
+    "red_cartoon-5": {
+        "data_dir": "red_cartoon-5",
+        "instance_prompt": "a cartoon on top of a wooden floor"
+    },
+    "red_cartoon-6": {
+        "data_dir": "red_cartoon-6",
+        "instance_prompt": "a cartoon with a city in the background"
+    },
+    "red_cartoon-7": {
+        "data_dir": "red_cartoon-7",
+        "instance_prompt": "a cartoon with a mountain in the background"
+    },
+    "red_cartoon-8": {
+        "data_dir": "red_cartoon-8",
+        "instance_prompt": "a cartoon with a blue house in the background"
+    },
+    "red_cartoon-9": {
+        "data_dir": "red_cartoon-9",
+        "instance_prompt": "a cartoon on top of a purple rug in a forest"
+    },
+    "red_cartoon-10": {
+        "data_dir": "red_cartoon-10",
+        "instance_prompt": "a cartoon with a wheat field in the background"
+    },
+    "red_cartoon-11": {
+        "data_dir": "red_cartoon-11",
+        "instance_prompt": "a cartoon with a tree and autumn leaves in the background"
+    },
+    "red_cartoon-12": {
+        "data_dir": "red_cartoon-12",
+        "instance_prompt": "a cartoon with the Eiffel Tower in the background"
+    },
+    "red_cartoon-13": {
+        "data_dir": "red_cartoon-13",
+        "instance_prompt": "a cartoon floating on top of water"
+    },
+    "red_cartoon-14": {
+        "data_dir": "red_cartoon-14",
+        "instance_prompt": "a cartoon floating in an ocean of milk"
+    },
+    "red_cartoon-15": {
+        "data_dir": "red_cartoon-15",
+        "instance_prompt": "a cartoon on top of green grass with sunflowers around it"
+    },
+    "red_cartoon-16": {
+        "data_dir": "red_cartoon-16",
+        "instance_prompt": "a cartoon on top of a mirror"
+    },
+    "red_cartoon-17": {
+        "data_dir": "red_cartoon-17",
+        "instance_prompt": "a cartoon on top of the sidewalk in a crowded street"
+    },
+    "red_cartoon-18": {
+        "data_dir": "red_cartoon-18",
+        "instance_prompt": "a cartoon on top of a dirt road"
+    },
+    "red_cartoon-19": {
+        "data_dir": "red_cartoon-19",
+        "instance_prompt": "a cartoon on top of a white rug"
+    },
+    "red_cartoon-20": {
+        "data_dir": "red_cartoon-20",
+        "instance_prompt": "a red cartoon"
+    },
+    "red_cartoon-21": {
+        "data_dir": "red_cartoon-21",
+        "instance_prompt": "a purple cartoon"
+    },
+    "red_cartoon-22": {
+        "data_dir": "red_cartoon-22",
+        "instance_prompt": "a shiny cartoon"
+    },
+    "red_cartoon-23": {
+        "data_dir": "red_cartoon-23",
+        "instance_prompt": "a wet cartoon"
+    },
+    "red_cartoon-24": {
+        "data_dir": "red_cartoon-24",
+        "instance_prompt": "a cube shaped cartoon"
+    },
+    "robot_toy-0": {
+        "data_dir": "robot_toy-0",
+        "instance_prompt": "a toy in the jungle"
+    },
+    "robot_toy-1": {
+        "data_dir": "robot_toy-1",
+        "instance_prompt": "a toy in the snow"
+    },
+    "robot_toy-2": {
+        "data_dir": "robot_toy-2",
+        "instance_prompt": "a toy on the beach"
+    },
+    "robot_toy-3": {
+        "data_dir": "robot_toy-3",
+        "instance_prompt": "a toy on a cobblestone street"
+    },
+    "robot_toy-4": {
+        "data_dir": "robot_toy-4",
+        "instance_prompt": "a toy on top of pink fabric"
+    },
+    "robot_toy-5": {
+        "data_dir": "robot_toy-5",
+        "instance_prompt": "a toy on top of a wooden floor"
+    },
+    "robot_toy-6": {
+        "data_dir": "robot_toy-6",
+        "instance_prompt": "a toy with a city in the background"
+    },
+    "robot_toy-7": {
+        "data_dir": "robot_toy-7",
+        "instance_prompt": "a toy with a mountain in the background"
+    },
+    "robot_toy-8": {
+        "data_dir": "robot_toy-8",
+        "instance_prompt": "a toy with a blue house in the background"
+    },
+    "robot_toy-9": {
+        "data_dir": "robot_toy-9",
+        "instance_prompt": "a toy on top of a purple rug in a forest"
+    },
+    "robot_toy-10": {
+        "data_dir": "robot_toy-10",
+        "instance_prompt": "a toy with a wheat field in the background"
+    },
+    "robot_toy-11": {
+        "data_dir": "robot_toy-11",
+        "instance_prompt": "a toy with a tree and autumn leaves in the background"
+    },
+    "robot_toy-12": {
+        "data_dir": "robot_toy-12",
+        "instance_prompt": "a toy with the Eiffel Tower in the background"
+    },
+    "robot_toy-13": {
+        "data_dir": "robot_toy-13",
+        "instance_prompt": "a toy floating on top of water"
+    },
+    "robot_toy-14": {
+        "data_dir": "robot_toy-14",
+        "instance_prompt": "a toy floating in an ocean of milk"
+    },
+    "robot_toy-15": {
+        "data_dir": "robot_toy-15",
+        "instance_prompt": "a toy on top of green grass with sunflowers around it"
+    },
+    "robot_toy-16": {
+        "data_dir": "robot_toy-16",
+        "instance_prompt": "a toy on top of a mirror"
+    },
+    "robot_toy-17": {
+        "data_dir": "robot_toy-17",
+        "instance_prompt": "a toy on top of the sidewalk in a crowded street"
+    },
+    "robot_toy-18": {
+        "data_dir": "robot_toy-18",
+        "instance_prompt": "a toy on top of a dirt road"
+    },
+    "robot_toy-19": {
+        "data_dir": "robot_toy-19",
+        "instance_prompt": "a toy on top of a white rug"
+    },
+    "robot_toy-20": {
+        "data_dir": "robot_toy-20",
+        "instance_prompt": "a red toy"
+    },
+    "robot_toy-21": {
+        "data_dir": "robot_toy-21",
+        "instance_prompt": "a purple toy"
+    },
+    "robot_toy-22": {
+        "data_dir": "robot_toy-22",
+        "instance_prompt": "a shiny toy"
+    },
+    "robot_toy-23": {
+        "data_dir": "robot_toy-23",
+        "instance_prompt": "a wet toy"
+    },
+    "robot_toy-24": {
+        "data_dir": "robot_toy-24",
+        "instance_prompt": "a cube shaped toy"
+    },
+    "shiny_sneaker-0": {
+        "data_dir": "shiny_sneaker-0",
+        "instance_prompt": "a sneaker in the jungle"
+    },
+    "shiny_sneaker-1": {
+        "data_dir": "shiny_sneaker-1",
+        "instance_prompt": "a sneaker in the snow"
+    },
+    "shiny_sneaker-2": {
+        "data_dir": "shiny_sneaker-2",
+        "instance_prompt": "a sneaker on the beach"
+    },
+    "shiny_sneaker-3": {
+        "data_dir": "shiny_sneaker-3",
+        "instance_prompt": "a sneaker on a cobblestone street"
+    },
+    "shiny_sneaker-4": {
+        "data_dir": "shiny_sneaker-4",
+        "instance_prompt": "a sneaker on top of pink fabric"
+    },
+    "shiny_sneaker-5": {
+        "data_dir": "shiny_sneaker-5",
+        "instance_prompt": "a sneaker on top of a wooden floor"
+    },
+    "shiny_sneaker-6": {
+        "data_dir": "shiny_sneaker-6",
+        "instance_prompt": "a sneaker with a city in the background"
+    },
+    "shiny_sneaker-7": {
+        "data_dir": "shiny_sneaker-7",
+        "instance_prompt": "a sneaker with a mountain in the background"
+    },
+    "shiny_sneaker-8": {
+        "data_dir": "shiny_sneaker-8",
+        "instance_prompt": "a sneaker with a blue house in the background"
+    },
+    "shiny_sneaker-9": {
+        "data_dir": "shiny_sneaker-9",
+        "instance_prompt": "a sneaker on top of a purple rug in a forest"
+    },
+    "shiny_sneaker-10": {
+        "data_dir": "shiny_sneaker-10",
+        "instance_prompt": "a sneaker with a wheat field in the background"
+    },
+    "shiny_sneaker-11": {
+        "data_dir": "shiny_sneaker-11",
+        "instance_prompt": "a sneaker with a tree and autumn leaves in the background"
+    },
+    "shiny_sneaker-12": {
+        "data_dir": "shiny_sneaker-12",
+        "instance_prompt": "a sneaker with the Eiffel Tower in the background"
+    },
+    "shiny_sneaker-13": {
+        "data_dir": "shiny_sneaker-13",
+        "instance_prompt": "a sneaker floating on top of water"
+    },
+    "shiny_sneaker-14": {
+        "data_dir": "shiny_sneaker-14",
+        "instance_prompt": "a sneaker floating in an ocean of milk"
+    },
+    "shiny_sneaker-15": {
+        "data_dir": "shiny_sneaker-15",
+        "instance_prompt": "a sneaker on top of green grass with sunflowers around it"
+    },
+    "shiny_sneaker-16": {
+        "data_dir": "shiny_sneaker-16",
+        "instance_prompt": "a sneaker on top of a mirror"
+    },
+    "shiny_sneaker-17": {
+        "data_dir": "shiny_sneaker-17",
+        "instance_prompt": "a sneaker on top of the sidewalk in a crowded street"
+    },
+    "shiny_sneaker-18": {
+        "data_dir": "shiny_sneaker-18",
+        "instance_prompt": "a sneaker on top of a dirt road"
+    },
+    "shiny_sneaker-19": {
+        "data_dir": "shiny_sneaker-19",
+        "instance_prompt": "a sneaker on top of a white rug"
+    },
+    "shiny_sneaker-20": {
+        "data_dir": "shiny_sneaker-20",
+        "instance_prompt": "a red sneaker"
+    },
+    "shiny_sneaker-21": {
+        "data_dir": "shiny_sneaker-21",
+        "instance_prompt": "a purple sneaker"
+    },
+    "shiny_sneaker-22": {
+        "data_dir": "shiny_sneaker-22",
+        "instance_prompt": "a shiny sneaker"
+    },
+    "shiny_sneaker-23": {
+        "data_dir": "shiny_sneaker-23",
+        "instance_prompt": "a wet sneaker"
+    },
+    "shiny_sneaker-24": {
+        "data_dir": "shiny_sneaker-24",
+        "instance_prompt": "a cube shaped sneaker"
+    },
+    "teapot-0": {
+        "data_dir": "teapot-0",
+        "instance_prompt": "a teapot in the jungle"
+    },
+    "teapot-1": {
+        "data_dir": "teapot-1",
+        "instance_prompt": "a teapot in the snow"
+    },
+    "teapot-2": {
+        "data_dir": "teapot-2",
+        "instance_prompt": "a teapot on the beach"
+    },
+    "teapot-3": {
+        "data_dir": "teapot-3",
+        "instance_prompt": "a teapot on a cobblestone street"
+    },
+    "teapot-4": {
+        "data_dir": "teapot-4",
+        "instance_prompt": "a teapot on top of pink fabric"
+    },
+    "teapot-5": {
+        "data_dir": "teapot-5",
+        "instance_prompt": "a teapot on top of a wooden floor"
+    },
+    "teapot-6": {
+        "data_dir": "teapot-6",
+        "instance_prompt": "a teapot with a city in the background"
+    },
+    "teapot-7": {
+        "data_dir": "teapot-7",
+        "instance_prompt": "a teapot with a mountain in the background"
+    },
+    "teapot-8": {
+        "data_dir": "teapot-8",
+        "instance_prompt": "a teapot with a blue house in the background"
+    },
+    "teapot-9": {
+        "data_dir": "teapot-9",
+        "instance_prompt": "a teapot on top of a purple rug in a forest"
+    },
+    "teapot-10": {
+        "data_dir": "teapot-10",
+        "instance_prompt": "a teapot with a wheat field in the background"
+    },
+    "teapot-11": {
+        "data_dir": "teapot-11",
+        "instance_prompt": "a teapot with a tree and autumn leaves in the background"
+    },
+    "teapot-12": {
+        "data_dir": "teapot-12",
+        "instance_prompt": "a teapot with the Eiffel Tower in the background"
+    },
+    "teapot-13": {
+        "data_dir": "teapot-13",
+        "instance_prompt": "a teapot floating on top of water"
+    },
+    "teapot-14": {
+        "data_dir": "teapot-14",
+        "instance_prompt": "a teapot floating in an ocean of milk"
+    },
+    "teapot-15": {
+        "data_dir": "teapot-15",
+        "instance_prompt": "a teapot on top of green grass with sunflowers around it"
+    },
+    "teapot-16": {
+        "data_dir": "teapot-16",
+        "instance_prompt": "a teapot on top of a mirror"
+    },
+    "teapot-17": {
+        "data_dir": "teapot-17",
+        "instance_prompt": "a teapot on top of the sidewalk in a crowded street"
+    },
+    "teapot-18": {
+        "data_dir": "teapot-18",
+        "instance_prompt": "a teapot on top of a dirt road"
+    },
+    "teapot-19": {
+        "data_dir": "teapot-19",
+        "instance_prompt": "a teapot on top of a white rug"
+    },
+    "teapot-20": {
+        "data_dir": "teapot-20",
+        "instance_prompt": "a red teapot"
+    },
+    "teapot-21": {
+        "data_dir": "teapot-21",
+        "instance_prompt": "a purple teapot"
+    },
+    "teapot-22": {
+        "data_dir": "teapot-22",
+        "instance_prompt": "a shiny teapot"
+    },
+    "teapot-23": {
+        "data_dir": "teapot-23",
+        "instance_prompt": "a wet teapot"
+    },
+    "teapot-24": {
+        "data_dir": "teapot-24",
+        "instance_prompt": "a cube shaped teapot"
+    },
+    "vase-0": {
+        "data_dir": "vase-0",
+        "instance_prompt": "a vase in the jungle"
+    },
+    "vase-1": {
+        "data_dir": "vase-1",
+        "instance_prompt": "a vase in the snow"
+    },
+    "vase-2": {
+        "data_dir": "vase-2",
+        "instance_prompt": "a vase on the beach"
+    },
+    "vase-3": {
+        "data_dir": "vase-3",
+        "instance_prompt": "a vase on a cobblestone street"
+    },
+    "vase-4": {
+        "data_dir": "vase-4",
+        "instance_prompt": "a vase on top of pink fabric"
+    },
+    "vase-5": {
+        "data_dir": "vase-5",
+        "instance_prompt": "a vase on top of a wooden floor"
+    },
+    "vase-6": {
+        "data_dir": "vase-6",
+        "instance_prompt": "a vase with a city in the background"
+    },
+    "vase-7": {
+        "data_dir": "vase-7",
+        "instance_prompt": "a vase with a mountain in the background"
+    },
+    "vase-8": {
+        "data_dir": "vase-8",
+        "instance_prompt": "a vase with a blue house in the background"
+    },
+    "vase-9": {
+        "data_dir": "vase-9",
+        "instance_prompt": "a vase on top of a purple rug in a forest"
+    },
+    "vase-10": {
+        "data_dir": "vase-10",
+        "instance_prompt": "a vase with a wheat field in the background"
+    },
+    "vase-11": {
+        "data_dir": "vase-11",
+        "instance_prompt": "a vase with a tree and autumn leaves in the background"
+    },
+    "vase-12": {
+        "data_dir": "vase-12",
+        "instance_prompt": "a vase with the Eiffel Tower in the background"
+    },
+    "vase-13": {
+        "data_dir": "vase-13",
+        "instance_prompt": "a vase floating on top of water"
+    },
+    "vase-14": {
+        "data_dir": "vase-14",
+        "instance_prompt": "a vase floating in an ocean of milk"
+    },
+    "vase-15": {
+        "data_dir": "vase-15",
+        "instance_prompt": "a vase on top of green grass with sunflowers around it"
+    },
+    "vase-16": {
+        "data_dir": "vase-16",
+        "instance_prompt": "a vase on top of a mirror"
+    },
+    "vase-17": {
+        "data_dir": "vase-17",
+        "instance_prompt": "a vase on top of the sidewalk in a crowded street"
+    },
+    "vase-18": {
+        "data_dir": "vase-18",
+        "instance_prompt": "a vase on top of a dirt road"
+    },
+    "vase-19": {
+        "data_dir": "vase-19",
+        "instance_prompt": "a vase on top of a white rug"
+    },
+    "vase-20": {
+        "data_dir": "vase-20",
+        "instance_prompt": "a red vase"
+    },
+    "vase-21": {
+        "data_dir": "vase-21",
+        "instance_prompt": "a purple vase"
+    },
+    "vase-22": {
+        "data_dir": "vase-22",
+        "instance_prompt": "a shiny vase"
+    },
+    "vase-23": {
+        "data_dir": "vase-23",
+        "instance_prompt": "a wet vase"
+    },
+    "vase-24": {
+        "data_dir": "vase-24",
+        "instance_prompt": "a cube shaped vase"
+    },
+    "wolf_plushie-0": {
+        "data_dir": "wolf_plushie-0",
+        "instance_prompt": "a stuffed animal in the jungle"
+    },
+    "wolf_plushie-1": {
+        "data_dir": "wolf_plushie-1",
+        "instance_prompt": "a stuffed animal in the snow"
+    },
+    "wolf_plushie-2": {
+        "data_dir": "wolf_plushie-2",
+        "instance_prompt": "a stuffed animal on the beach"
+    },
+    "wolf_plushie-3": {
+        "data_dir": "wolf_plushie-3",
+        "instance_prompt": "a stuffed animal on a cobblestone street"
+    },
+    "wolf_plushie-4": {
+        "data_dir": "wolf_plushie-4",
+        "instance_prompt": "a stuffed animal on top of pink fabric"
+    },
+    "wolf_plushie-5": {
+        "data_dir": "wolf_plushie-5",
+        "instance_prompt": "a stuffed animal on top of a wooden floor"
+    },
+    "wolf_plushie-6": {
+        "data_dir": "wolf_plushie-6",
+        "instance_prompt": "a stuffed animal with a city in the background"
+    },
+    "wolf_plushie-7": {
+        "data_dir": "wolf_plushie-7",
+        "instance_prompt": "a stuffed animal with a mountain in the background"
+    },
+    "wolf_plushie-8": {
+        "data_dir": "wolf_plushie-8",
+        "instance_prompt": "a stuffed animal with a blue house in the background"
+    },
+    "wolf_plushie-9": {
+        "data_dir": "wolf_plushie-9",
+        "instance_prompt": "a stuffed animal on top of a purple rug in a forest"
+    },
+    "wolf_plushie-10": {
+        "data_dir": "wolf_plushie-10",
+        "instance_prompt": "a stuffed animal with a wheat field in the background"
+    },
+    "wolf_plushie-11": {
+        "data_dir": "wolf_plushie-11",
+        "instance_prompt": "a stuffed animal with a tree and autumn leaves in the background"
+    },
+    "wolf_plushie-12": {
+        "data_dir": "wolf_plushie-12",
+        "instance_prompt": "a stuffed animal with the Eiffel Tower in the background"
+    },
+    "wolf_plushie-13": {
+        "data_dir": "wolf_plushie-13",
+        "instance_prompt": "a stuffed animal floating on top of water"
+    },
+    "wolf_plushie-14": {
+        "data_dir": "wolf_plushie-14",
+        "instance_prompt": "a stuffed animal floating in an ocean of milk"
+    },
+    "wolf_plushie-15": {
+        "data_dir": "wolf_plushie-15",
+        "instance_prompt": "a stuffed animal on top of green grass with sunflowers around it"
+    },
+    "wolf_plushie-16": {
+        "data_dir": "wolf_plushie-16",
+        "instance_prompt": "a stuffed animal on top of a mirror"
+    },
+    "wolf_plushie-17": {
+        "data_dir": "wolf_plushie-17",
+        "instance_prompt": "a stuffed animal on top of the sidewalk in a crowded street"
+    },
+    "wolf_plushie-18": {
+        "data_dir": "wolf_plushie-18",
+        "instance_prompt": "a stuffed animal on top of a dirt road"
+    },
+    "wolf_plushie-19": {
+        "data_dir": "wolf_plushie-19",
+        "instance_prompt": "a stuffed animal on top of a white rug"
+    },
+    "wolf_plushie-20": {
+        "data_dir": "wolf_plushie-20",
+        "instance_prompt": "a red stuffed animal"
+    },
+    "wolf_plushie-21": {
+        "data_dir": "wolf_plushie-21",
+        "instance_prompt": "a purple stuffed animal"
+    },
+    "wolf_plushie-22": {
+        "data_dir": "wolf_plushie-22",
+        "instance_prompt": "a shiny stuffed animal"
+    },
+    "wolf_plushie-23": {
+        "data_dir": "wolf_plushie-23",
+        "instance_prompt": "a wet stuffed animal"
+    },
+    "wolf_plushie-24": {
+        "data_dir": "wolf_plushie-24",
+        "instance_prompt": "a cube shaped stuffed animal"
+    }
+}
