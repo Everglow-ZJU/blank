@@ -1,0 +1,1 @@
+https://github.com/LAION-AI/CLAP/tree/6b1b4b5b4b87f4e19d3836d2ae7d7272e1c69410#egg=laion_clap
